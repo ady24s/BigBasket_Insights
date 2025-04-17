@@ -98,5 +98,6 @@ def persona():
     result = get_persona(cluster)
     return render_template("dashboard_extended.html", persona_result=result, active_section="persona")
 
-if __name__ == "__main__":
-    app.run(debug=True)
+    if __name__ == "__main__":
+        app.run(host='0.0.0.0', port=10000)
+
