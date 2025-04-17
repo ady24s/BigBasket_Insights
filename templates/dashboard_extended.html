@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>BigBasket Interactive Dashboard</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f5f5f5;
+    }
+    nav {
+      background-color: #212529;
+      color: white;
+      padding: 1rem 2rem;
+      display: flex;
+      gap: 1.5rem;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      cursor: pointer;
+      font-weight: bold;
+    }
+    section {
+      display: none;
+      padding: 2rem;
+    }
+    section.active {
+      display: block;
+    }
+    form input, form button {
+      margin: 0.5rem 0;
+      padding: 0.5rem;
+      width: 250px;
+      display: block;
+    }
+    form button {
+      background-color: #28a745;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    h2 {
+      color: #333;
+    }
+    iframe {
+      width: 100%;
+      height: 600px;
+      border: none;
+    }
+    .result {
+      background: #fff;
+      border-left: 5px solid #007bff;
+      padding: 1rem;
+      margin-top: 1rem;
+      font-size: 1.1rem;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a onclick="showSection('report')">📊 Dashboard</a>
+  <a onclick="showSection('churn')">🧠 Churn Prediction</a>
+  <a onclick="showSection('offer')">🎁 Offer Suggestion</a>
+  <a onclick="showSection('clv')">💰 CLV Estimator</a>
+  <a onclick="showSection('persona')">👤 Customer Persona</a>
+</nav>
+
+<!-- 1. Power BI Dashboard -->
+<section id="report" class="{% if active_section == 'report' %}active{% endif %}">
+  <iframe title="Big_Basket"
+    src="https://app.powerbi.com/reportEmbed?reportId=ba3f79da-5814-4f70-84f0-2a1b98e66fcc&autoAuth=true&ctid=23035d1f-133c-44b5-b2ad-b3aef17baaa1"
+    allowFullScreen="true">
+  </iframe>
+</section>
+
+<!-- 2. Churn Prediction -->
+<section id="churn" class="{% if active_section == 'churn' %}active{% endif %}">
+  <h2>Churn Prediction</h2>
+  <form method="POST" action="/churn">
+    Cluster: <input type="number" name="cluster" required>
+    Satisfaction Score: <input type="number" name="satisfaction" step="0.1" required>
+    Monthly Spend: <input type="number" name="spend" required>
+    <button type="submit">Predict</button>
+  </form>
+  {% if churn_result %}
+    <div class="result">Prediction: {{ churn_result }}</div>
+  {% endif %}
+</section>
+
+<!-- 3. Offer Suggestion -->
+<section id="offer" class="{% if active_section == 'offer' %}active{% endif %}">
+  <h2>Offer Suggestion</h2>
+  <form method="POST" action="/offer">
+    Cluster: <input type="number" name="cluster" required>
+    <button type="submit">Suggest Offer</button>
+  </form>
+  {% if offer_result %}
+    <div class="result">Suggested Offer: {{ offer_result }}</div>
+  {% endif %}
+</section>
+
+<!-- 4. CLV Estimator -->
+<section id="clv" class="{% if active_section == 'clv' %}active{% endif %}">
+  <h2>Customer Lifetime Value (CLV)</h2>
+  <form method="POST" action="/clv">
+    Monthly Spend (₹): <input type="number" name="spend" required>
+    Retention Months: <input type="number" name="months" required>
+    Profit Margin (%): <input type="number" name="margin" required>
+    <button type="submit">Estimate CLV</button>
+  </form>
+  {% if clv is not none %}
+    <div class="result">Estimated CLV: ₹{{ clv }}</div>
+  {% endif %}
+</section>
+
+<!-- 5. Persona Generator -->
+<section id="persona" class="{% if active_section == 'persona' %}active{% endif %}">
+  <h2>Customer Persona</h2>
+  <form method="POST" action="/persona">
+    Cluster: <input type="number" name="cluster" required>
+    <button type="submit">View Persona</button>
+  </form>
+  {% if persona_result %}
+    <div class="result">Persona: {{ persona_result }}</div>
+  {% endif %}
+</section>
+
+<script>
+  function showSection(id) {
+    document.querySelectorAll("section").forEach(sec => sec.classList.remove("active"));
+    document.getElementById(id).classList.add("active");
+  }
+
+  // Auto-show section after post
+  showSection("{{ active_section }}");
+</script>
+<!-- Hidden Microsoft login to enable Power BI autoAuth -->
+<iframe 
+  src="https://login.microsoftonline.com/common/oauth2/authorize?client_id=dummy&response_type=id_token" 
+  style="display: none;">
+</iframe>
+
+
+</body>
+</html>

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>BigBasket Insights – Login</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #f0fdf4;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      position: relative;
+      overflow: hidden;
+    }
+
+    /* Giant Grocery Bag - bottom right */
+    .corner-icon {
+      position: absolute;
+      bottom: -20px;
+      right: -20px;
+      width: 320px;
+      z-index: 0;
+      opacity: 0.95;
+    }
+
+    /* Transparent fruits (background decor) */
+    .fruit {
+      position: absolute;
+      width: 80px;
+      opacity: 0.6;
+      z-index: 0;
+    }
+
+    .fruit1 { top: 40px; left: 30px; }
+    .fruit2 { top: 120px; right: 80px; }
+    .fruit3 { bottom: 130px; left: 90px; }
+    .fruit4 { top: 60%; right: 10%; }
+    .fruit5 { top: 25%; left: 50%; }
+
+    .login-container {
+      background-color: #ffffff;
+      padding: 2rem 3rem;
+      border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+      max-width: 420px;
+      width: 100%;
+      text-align: center;
+      z-index: 1;
+    }
+
+    .logo {
+      width: 80px;
+      margin-bottom: 1rem;
+    }
+
+    h1 {
+      color: #28a745;
+      font-size: 1.8rem;
+      margin-bottom: 0.4rem;
+    }
+
+    p.subtitle {
+      color: #666;
+      font-size: 1rem;
+      margin-bottom: 1.8rem;
+    }
+
+    input {
+      width: 100%;
+      padding: 0.85rem;
+      margin: 0.6rem 0 1rem;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      font-size: 1rem;
+    }
+
+    button {
+      width: 100%;
+      background-color: #28a745;
+      color: white;
+      font-size: 1rem;
+      border: none;
+      border-radius: 8px;
+      padding: 0.85rem;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #218838;
+    }
+
+    .error {
+      color: red;
+      margin-top: 0.5rem;
+      font-size: 0.9rem;
+    }
+
+    @media screen and (max-width: 600px) {
+      body {
+        padding: 1rem;
+      }
+      .corner-icon, .fruit {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Decorative fruits (20% opacity) -->
+  <img class="fruit fruit1" src="https://cdn-icons-png.flaticon.com/512/11635/11635873.png" alt="Avocado" />
+  <img class="fruit fruit2" src="https://cdn-icons-png.flaticon.com/512/7836/7836389.png" alt="Apple" />
+  <img class="fruit fruit3" src="https://cdn-icons-png.flaticon.com/512/7315/7315465.png" alt="Strawberry" />
+  <img class="fruit fruit4" src="https://cdn-icons-png.flaticon.com/512/7836/7836389.png" alt="Apple 2" />
+  <img class="fruit fruit5" src="https://cdn-icons-png.flaticon.com/512/11635/11635873.png" alt="Avocado 2" />
+
+  <!-- Giant Grocery Icon -->
+  <img class="corner-icon" src="https://cdn-icons-png.flaticon.com/512/9862/9862061.png" alt="Grocery Icon" />
+
+  <!-- Login Box -->
+  <div class="login-container">
+    <img class="logo" src="https://cdn-icons-png.flaticon.com/512/3176/3176287.png" alt="Online Shop Icon" />
+    <h1>BigBasket Insights</h1>
+    <p class="subtitle">Manager Login</p>
+    <form method="POST">
+      <input type="text" name="username" placeholder="Username" required />
+      <input type="password" name="password" placeholder="Password" required />
+      <button type="submit">Sign In</button>
+    </form>
+    {% if error %}
+      <div class="error">{{ error }}</div>
+    {% endif %}
+  </div>
+
+</body>
+</html>

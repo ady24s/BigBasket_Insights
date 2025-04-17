@@ -1,0 +1,16 @@
+CustomerID,Product,Rating,Comment,ComplaintTag,ReturnStatus
+CUST0046,"Plastic Container - Transparent, Super Seal, Pink",2,Not as described,Missing Item,Returned
+CUST0046,Garlic Chilli Sauce,4,Would order again,None,Not Returned
+CUST0058,Kantan Tennis Balls,4,Returned due to damage,None,Not Returned
+CUST0074,Coconut Water,1,Returned due to damage,Packaging,Returned
+CUST0060,"Adult Dry Cat Food - +1 Year, Mackerel",3,Perfect delivery,Packaging,Not Returned
+CUST0012,Gluten Free Egg Replacer,2,Perfect delivery,Quality,Returned
+CUST0069,Shikakai - Amla and Bhringraj,3,Not as described,Price,Not Returned
+CUST0022,"Snack Time - Schezwan Fried Rice Masala, Chinese Flavour",2,Average experience,Damaged,Returned
+CUST0033,Darjeeling Green Tea,2,Fresh and good,Late Delivery,Returned
+CUST0049,Whole Wheat Atta Noodles,4,Item was missing,None,Not Returned
+CUST0033,Amla Candy - Masala,2,Fresh and good,Packaging,Returned
+CUST0032,Perfume - Beyond Paradise Edp (For Women),1,Fresh and good,Price,Returned
+CUST0024,"Plastic Container - Printed, Crystal, 14731P",4,Item was missing,None,Not Returned
+CUST0027,Mayonnaise - Eggless Spout,2,Would order again,Damaged,Returned
+CUST0035,Dr.Belmeur Clarifying Spot Calming Ampoule,4,Very satisfied,None,Not Returned

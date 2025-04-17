@@ -1,0 +1,1016 @@
+OrderID,CustomerID,Product,Category,Brand,Quantity,PricePaid,OrderDate,PaymentMethod
+ORD00001,CUST0084,Hyaluronate Collagen Essence Mask,Beauty & Hygiene,Dermal,4,394.4,2025-01-29,upi 
+ORD00002,CUST0087,Herbal Multi Care Sensitive Toothpaste,"FOODGRAINS, oil & Masala",Sensodyne,3,375.0,2025-02-09,Net Banking
+ORD00003,CUST0075,Organic - Moringa Powder,"Foodgrains, Oil & Masala",Phalada Pure & Sure,2,360.0,2025-02-28,Cash on Delivery
+ORD00004,CUST0036,"Ultra Clean Sanitary Pads For Women, XL+",Beauty & Hygiene,Whisper ,2,1332.8,2025-02-14,Cash on Delivery
+ORD00005,CUST0014,Candy Slice In Black Currant Apple Flavour,Gourmet & World Food,Orileys,4,180.0,2025-02-19,Cash on Delivery
+ORD00006,CUST0040,Dark Fantasy Bourbon Chocolate Cream Biscuits,Snacks & Branded Foods,Sunfeast,4,120.0,2025-02-06,Cash on Delivery
+ORD00007,CUST0075,Carrot & Cucumber Sandwich Spread Chef's Special,Snacks & Branded Foods,Veeba,3,102.0,2025-03-27,Debit Card
+ORD00008,CUST0018,Tulsi Natura Green Tea Bags,Beverages,Lipton ,4,528.0,2025-02-08,Credit Card
+ORD00009,CUST0088,Peanut Filled Chocolate,Gourmet & World Food,Snickers,1,200.0,2025-01-26,Debit Card
+ORD00010,CUST0022,Neem Shampoo - Anti-Dandruff Formula,Beauty & Hygiene,Jiva Ayurveda,3,450.0,2025-01-22,Debit Card
+ORD00011,CUST0040,Blooming Colour Shampoo - Murumuru Butter & Rose Aroma,Beauty & Hygiene,Love Beauty & Planet,2,1200.0,2025-01-08,UPI
+ORD00012,CUST0001,Basmati Rice/Basmati Akki - Brown (Quick Cooking),"Foodgrains, Oil & Masala",Daawat ,1,649.0,2025-02-05,Credit Card
+ORD00013,CUST0009,Lemongrass Floor Cleaner,Cleaning & Household,Nimyle,3,252.0,2025-01-06,Net Banking
+ORD00014,CUST0016,Rosemary Pure Essential Oil,Beauty & Hygiene,INATUR ,5,1575.0,2024-12-02,Net Banking
+ORD00015,CUST0040,"Stainless Steel Water Bottle - Red, BB 493 3","Kitchen, Garden & Pets",DP,4,716.0,2025-01-08,UPI
+ORD00016,CUST0029,Deep Clean Germ Protection Liquid Handwash Refill Pouch,Beauty & Hygiene,Savlon,4,144.0,2025-03-13,Debit Card
+ORD00017,CUST0081,Opticare Smooth Straight Shampoo,Beauty & Hygiene,Matrix,5,2500.0,2024-12-30,UPI
+ORD00018,CUST0065,Whisky Glass - Truva DOF,"Kitchen, Garden & Pets",Lyra,5,2345.0,2025-01-17,Credit Card
+ORD00019,CUST0015,Hide & Seek Choco Rolls,Snacks & Branded Foods,Parle,4,150.0,2025-03-23,Cash on Delivery
+ORD00020,CUST0047,Chocos - Moons & Stars,Snacks & Branded Foods,Kelloggs,4,1500.68,2025-01-20,Credit Card
+ORD00021,CUST0053,Detangling Comb (HC-11),Beauty & Hygiene,Bare Essentials,2,178.2,2025-03-02,Net Banking
+ORD00022,CUST0019,Tea Tree & Activated Charcoal Bath & Body Treatment - Soap & Face Wash,Beauty & Hygiene,Natural Vibes,4,2792.0,2024-12-29,Debit Card
+ORD00023,CUST0073,Pasta Sauce - Basilico,Gourmet & World Food,Barilla,1,349.0,2025-01-24,Credit Card
+ORD00024,CUST0074,Pineapple Economy Long Box - FG06724,Cleaning & Household,Shalimar,5,270.0,2025-03-08,Cash on Delivery
+ORD00025,CUST0024,Chicken Nuggets,Snacks & Branded Foods,sumeru,3,807.0,2025-01-06,Cash on Delivery
+ORD00026,CUST0059,Elnett Satin Normal Strength Hair Spray,Beauty & Hygiene,Loreal Paris,3,2250.0,2025-01-22,Credit Card
+ORD00027,CUST0003,Orange Drink,Gourmet & World Food,Ala Fresh,1,10.0,2024-12-24,Credit Card
+ORD00028,CUST0082,Facial Box Tissue Paper - Boutique,Cleaning & Household,Selpak,3,1020.0,2024-12-15,Net Banking
+ORD00029,CUST0084,"Hand Wash - Naturals, Sea Mineral",Beauty & Hygiene,Palmolive,5,445.0,2025-01-27,Debit Card
+ORD00030,CUST0070,Snackies Biscuits,Snacks & Branded Foods,Bisk Farm,5,125.0,2025-02-01,Credit Card
+ORD00031,CUST0023,Alpha Tribe - Body Spray,Beauty & Hygiene,Red Hunt,3,597.6,2024-12-03,Credit Card
+ORD00032,CUST0049,Basmati Rice/Basmati Akki - Brown (Quick Cooking),"Foodgrains, Oil & Masala",Daawat ,1,154.0,2025-02-07,UPI
+ORD00033,CUST0006,Cinnamon Honey,Snacks & Branded Foods,Future Organics,2,700.0,2024-12-14,Debit Card
+ORD00034,CUST0006,Naturale Coconut Nourishing Soap Bar,Beauty & Hygiene,Pears,3,492.0,2024-12-17,Net Banking
+ORD00035,CUST0035,Moong Dal/Hesaru Bele Whole,"Foodgrains, Oil & Masala",Organic Tattva,1,228.0,2024-12-30,UPI
+ORD00036,CUST0049,"Brass Angle Deep - Plain, No.2",Cleaning & Household,Trm,2,238.0,2024-12-02,Net Banking
+ORD00037,CUST0065,"Coffee - Classic, 100% Pure",Gourmet & World Food,Nescafe Gold,2,1498.5,2025-01-13,Net Banking
+ORD00038,CUST0059,Cup Noodles - Mazedaar Masala 70g + Veggi Manchow 70g + Spiced Chicken 70g,Snacks & Branded Foods,Nissin Food,3,360.0,2025-03-11,Net Banking
+ORD00039,CUST0065,Frozen Vegetables - Green Peas,Snacks & Branded Foods,Farmland,3,540.0,2025-01-29,UPI
+ORD00040,CUST0073,Ayurvedic Anti Acne & Skin Whitening Treatment - Tea Tree Skin Repair Serum & Tea Tree Face Wash,Beauty & Hygiene,Natural Vibes,3,3144.0,2024-12-11,Credit Card
+ORD00041,CUST0021,Organic - Jowar Flour/Jolada Hittu,"Foodgrains, Oil & Masala",bb Royal,1,62.0,2025-01-04,Net Banking
+ORD00042,CUST0074,Seasoning - Ginger Powder,"Foodgrains, Oil & Masala",Organic Nation,1,81.0,2025-02-08,Net Banking
+ORD00043,CUST0066,"Global Edition, Barcelona Blast",Beauty & Hygiene,Set Wet,2,300.0,2024-12-25,Debit Card
+ORD00044,CUST0073,Fruit N Nut Fantasy Ice Cream,"Bakery, Cakes & Dairy",Amul,4,120.0,2025-03-17,UPI
+ORD00045,CUST0006,Opalware Ivory Serving Bowl Medium - Golden Fall,"Kitchen, Garden & Pets",Laopala Diva,1,325.0,2025-03-09,Credit Card
+ORD00046,CUST0003,Spark Power Series Perfume Spray,Beauty & Hygiene,Kamasutra,4,546.0,2025-03-09,Net Banking
+ORD00047,CUST0024,"Anti Slip Shower Mat -Fish, Blue, SK585-4","Kitchen, Garden & Pets",NNF,2,298.0,2025-03-05,UPI
+ORD00048,CUST0075,Biscuit - Nariyal,Snacks & Branded Foods,Patanjali,2,20.0,2025-01-28,UPI
+ORD00049,CUST0089,"Sugar Sensation Foot File - Sky Blue, Colour May Vary",Beauty & Hygiene,Panache,5,796.0,2025-02-24,Credit Card
+ORD00050,CUST0053,Oats - Atta,Snacks & Branded Foods,Bagrrys,4,396.0,2025-01-19,Debit Card
+ORD00051,CUST0009,Pro 6 Advance Razor Value Kit For Men,Beauty & Hygiene,LetsShave,3,2989.65,2024-12-21,UPI
+ORD00052,CUST0040,Organic - Garam Masala,"Foodgrains, Oil & Masala",24 Mantra,5,375.0,2025-02-05,UPI
+ORD00053,CUST0061,Natural Multi Purpose Cleaner,Cleaning & Household,Bubblenut Wash,3,2397.0,2025-01-31,Debit Card
+ORD00054,CUST0038,"Hairstim XT Biotin 10,000mcg Tablets - With Added Nutrients",Baby Care,Bionova,2,1750.0,2025-01-16,UPI
+ORD00055,CUST0033,FunFoods American Mustard,Snacks & Branded Foods,Dr. Oetker,2,138.0,2024-12-15,Credit Card
+ORD00056,CUST0042,Almonds - Mediterranean Rosemary,"Foodgrains, Oil & Masala",Organic Origins,4,1320.0,2025-01-11,UPI
+ORD00057,CUST0098,Chai/100% Melamine Smart Coffee Mug Set - Red,"Kitchen, Garden & Pets",Iveo ,2,1318.0,2025-03-12,Debit Card
+ORD00058,CUST0035,"Disney Mickey - Baby Powder, Basil and Red Sandalwood",Beauty & Hygiene,BIOTIQUE,5,506.25,2024-12-16,Net Banking
+ORD00059,CUST0033,"Plastic Snacker Round Container - Small, Grey","Kitchen, Garden & Pets",Flair,2,118.0,2024-12-02,UPI
+ORD00060,CUST0072,100 % Pure Honey - Litchi,Gourmet & World Food,NUTRIWISH,5,4000.0,2025-03-11,Net Banking
+ORD00061,CUST0085,Magic Seal Square Storage Plastic Container - Royal Blue,"Kitchen, Garden & Pets",Polyset,5,645.0,2024-12-20,Debit Card
+ORD00062,CUST0043,"Clothes-Accessories Hanger - Plastic, Red - RedÂ  BB BB 588 3",Cleaning & Household,DP,1,149.0,2025-01-01,Credit Card
+ORD00063,CUST0087,Contura Black Hard Anodised Pressure Cooker - CB50,"Kitchen, Garden & Pets",Hawkins,4,10545.0,2024-12-12,Cash on Delivery
+ORD00064,CUST0094,Pomegranate Mandarin Pore Refining Tonique - Enlarged Pores,Beauty & Hygiene,Just Herbs,3,1471.5,2025-03-30,UPI
+ORD00065,CUST0038,"7X Beard Oil - Hydra Sport, 7 Premium Oils Supports Beard Growth & Nourishment",Beauty & Hygiene,Man Arden,1,325.0,2025-01-15,Credit Card
+ORD00066,CUST0070,"Three Fold Premium Umbrella - Three Fold, Auto Open & Close, Windproof, Plain Black Coloured","Kitchen, Garden & Pets",Parachase,5,4845.0,2025-03-12,UPI
+ORD00067,CUST0049,Stevia Chocolate - Plain Classic,Gourmet & World Food,Zevic Premium,2,290.0,2025-02-01,Credit Card
+ORD00068,CUST0052,Awadhi Raita Masala,"Foodgrains, Oil & Masala",Keya,3,210.0,2025-02-10,Debit Card
+ORD00069,CUST0009,Breeze - Razor Blades,Beauty & Hygiene,Gillette Venus,4,1400.0,2025-03-04,Credit Card
+ORD00070,CUST0084,Detox Green Tea,Beverages,FabBox,1,280.0,2025-02-27,Net Banking
+ORD00071,CUST0032,100% Melamine Dinner Set Black,"Kitchen, Garden & Pets",Iveo ,3,1977.0,2025-03-03,Credit Card
+ORD00072,CUST0080,Dates/Kharjura,"Foodgrains, Oil & Masala",Lion,3,480.0,2025-03-26,UPI
+ORD00073,CUST0030,Paste - Ginger,"Foodgrains, Oil & Masala",Mother's Recipe,4,200.0,2025-03-01,Net Banking
+ORD00074,CUST0006,Organic Sabja/Basil Seeds,"Foodgrains, Oil & Masala",bb Royal,5,495.0,2025-01-07,Cash on Delivery
+ORD00075,CUST0039,"N95 Washable Face Mask - Blue, Medium",Beauty & Hygiene,Nirvana,4,1196.0,2024-12-25,Cash on Delivery
+ORD00076,CUST0042,Eggless Choco Chips Cake,"Bakery, Cakes & Dairy",Bon & Bread,2,376.0,2025-02-08,Debit Card
+ORD00077,CUST0074,"Play - Deospray For Men, No Alcohol Deodrant",Beauty & Hygiene,Cinthol,3,555.75,2025-03-04,Net Banking
+ORD00078,CUST0014,Mix Fruit Chaat,"Foodgrains, Oil & Masala",FabBox,3,1008.0,2025-03-22,Cash on Delivery
+ORD00079,CUST0033,"Frost Stainless Steel Bottle With Sipper Cap - White Matt Finish, PXP 1004 CQ","Kitchen, Garden & Pets",BB Home,5,1145.0,2024-12-21,UPI
+ORD00080,CUST0005,Opalware Quarter Plate - Scarlet Blooms,"Kitchen, Garden & Pets",LaOpala,5,2045.0,2024-12-20,Net Banking
+ORD00081,CUST0065,4mm Aluminium Kadai With Handle - Silver,"Kitchen, Garden & Pets",HAZEL,3,1197.0,2025-03-15,Debit Card
+ORD00082,CUST0092,Namkeen - Khara Boondi,Snacks & Branded Foods,Sln  ,5,190.0,2025-01-16,Net Banking
+ORD00083,CUST0097,Mug 178 Frosty Deluxe Mug - Blue,Cleaning & Household,Nayasa,1,51.0,2025-03-10,Cash on Delivery
+ORD00084,CUST0032,"Plastic Twister Container - Small, Gray","Kitchen, Garden & Pets",Flair,4,676.0,2025-03-04,Credit Card
+ORD00085,CUST0090,Vwash Plus Expert Intimate Hygiene 100 ml + Bella Cotton Pads 100 pcs,Beauty & Hygiene,bb Combo,1,327.0,2025-02-18,Debit Card
+ORD00086,CUST0015,"Hard Anodised Saucepan With Stainless Steel Lid - L95, 16 Cm","Kitchen, Garden & Pets",Hawkins Futura,5,4987.5,2024-12-31,Debit Card
+ORD00087,CUST0084,French Lavender Essential Oil,Beauty & Hygiene,The Beauty Co.,1,346.5,2025-02-23,Cash on Delivery
+ORD00088,CUST0005,2 Way Window Cleaner - B130040,Cleaning & Household,Liao,4,1396.0,2024-12-25,Cash on Delivery
+ORD00089,CUST0086,Organic Rice Idli Ready Mi,Snacks & Branded Foods,Organic Tattva,4,340.0,2025-03-09,Cash on Delivery
+ORD00090,CUST0028,Low Carb Keto Protein Shake - Belgian Chocolate Flavour,Beauty & Hygiene,Supply6,2,5998.0,2025-02-17,Debit Card
+ORD00091,CUST0073,Choco Stick - Strawberry,Gourmet & World Food,Gone mad,3,306.0,2025-01-22,Debit Card
+ORD00092,CUST0044,"Power Pocket - Long Lasting Bathroom Fragrance, Berry Rush",Cleaning & Household,Aer,1,53.35,2024-12-13,Cash on Delivery
+ORD00093,CUST0089,"Jantughna Vati - Anti Infection, 500mg",Beauty & Hygiene,Sri Sri Tattva,1,400.0,2024-12-06,Credit Card
+ORD00094,CUST0067,Organic Sunflower Seed,"Foodgrains, Oil & Masala",MeraKisan,2,448.0,2025-03-22,UPI
+ORD00095,CUST0014,"Haldi Powder - Supports Anti-inflammatory Response, As Antioxidant & Healthy Immunity",Beauty & Hygiene,Bixa Botanical,2,390.0,2024-12-14,Net Banking
+ORD00096,CUST0037,Silicon Gloves - Assorted Colour,"Kitchen, Garden & Pets",BVC,2,2198.0,2024-12-13,UPI
+ORD00097,CUST0030,Masala - Biryani Rice,"Foodgrains, Oil & Masala",Roopak,5,800.0,2025-02-21,Net Banking
+ORD00098,CUST0041,Choco Pie - With Rich Cocoa,Snacks & Branded Foods,Lotte,4,580.0,2025-02-06,Cash on Delivery
+ORD00099,CUST0021,Perfume Body Spray - Oranssi,Beauty & Hygiene,Paris,5,2375.0,2025-01-02,UPI
+ORD00100,CUST0004,Sylvana Shot Glass Tumbler,"Kitchen, Garden & Pets",Pasabahce,3,1077.0,2024-12-29,Cash on Delivery
+ORD00101,CUST0049,Pickle - Fish,"Eggs, Meat & Fish",Tasty Nibbles,1,225.0,2024-12-02,Credit Card
+ORD00102,CUST0029,White Botanical Exceptional Toner,Beauty & Hygiene,YVES ROCHER,4,3000.0,2025-03-29,UPI
+ORD00103,CUST0046,"LED Bulb - 12 Watt, Cool Daylight, B22 Base","Kitchen, Garden & Pets",AGARO,4,636.0,2025-03-13,UPI
+ORD00104,CUST0039,Dog Spray - FreshCoat,"Kitchen, Garden & Pets",Himalaya Pet Care,3,1560.0,2025-02-10,Net Banking
+ORD00105,CUST0052,Falooda Mix Mango,Snacks & Branded Foods,Weikfield,3,195.0,2025-03-12,UPI
+ORD00106,CUST0076,Scrubber - Braided Back,Beauty & Hygiene,Bare Essentials,5,787.5,2025-01-04,Cash on Delivery
+ORD00107,CUST0035,Not Out Condoms - Climax Delay & Dotted,Beauty & Hygiene,Skore,1,90.0,2025-03-04,UPI
+ORD00108,CUST0010,Turmeric Cinnamon Green Tea,Gourmet & World Food,Chaayos,3,1047.0,2024-12-10,Credit Card
+ORD00109,CUST0040,"Sandhimitra Vati - Arthralgia, 500 mg",Beauty & Hygiene,Sri Sri Tattva,5,750.0,2024-12-13,UPI
+ORD00110,CUST0032,Charcoal Detox Over Night Repair Face Cream,Beauty & Hygiene,INATUR ,2,700.0,2025-02-07,Net Banking
+ORD00111,CUST0057,"100% Melamine Octa Chatni Bowl Set - Red, Black, Yellow","Kitchen, Garden & Pets",Iveo ,2,298.0,2024-12-25,Cash on Delivery
+ORD00112,CUST0051,Nutlicks,Snacks & Branded Foods,Micks,2,300.0,2025-02-11,Credit Card
+ORD00113,CUST0030,"Body Bath Loofah/Sponge/Scrubber - Dual Sided, Hangable, BB1427, Cream",Beauty & Hygiene,Muyi,5,495.0,2025-03-06,Cash on Delivery
+ORD00114,CUST0031,Hello Sun Sunblock & Anti-tTan Lotion - SPF30,Beauty & Hygiene,Joy,4,360.0,2025-03-06,UPI
+ORD00115,CUST0071,"Glass Water Bottle With Round Base - Green, B1366","Kitchen, Garden & Pets",BB Home,5,1045.0,2025-01-15,Net Banking
+ORD00116,CUST0097,Dark Side Perfume For Men,Beauty & Hygiene,Beardo,4,3600.0,2025-03-24,UPI
+ORD00117,CUST0048,Ayurvedic Medicine Lal Tail,Baby Care,Dabur,2,180.0,2025-03-12,Credit Card
+ORD00118,CUST0063,Packaged Drinking Water,Beverages,Aquafina,5,1200.0,2025-01-21,Cash on Delivery
+ORD00119,CUST0066,Herbal Henna Colour - Black,Beauty & Hygiene,Khadi Natural,3,825.0,2025-02-23,Credit Card
+ORD00120,CUST0077,"Plastic Container - Printed, Crystal, 14731P","Kitchen, Garden & Pets",Ratan,5,900.0,2025-02-15,Net Banking
+ORD00121,CUST0052,Sparkling - Grape & Cranberry,Gourmet & World Food,Valentino,3,975.0,2025-03-26,Debit Card
+ORD00122,CUST0030,Garlic - Organically Grown,Fruits & Vegetables,Fresho,5,280.0,2025-01-11,Debit Card
+ORD00123,CUST0012,Mozzarella & Cheddar - Shredded Cheese,Gourmet & World Food,RRO DAIRY,4,1180.0,2025-03-08,Net Banking
+ORD00124,CUST0047,Pizza Flavour Spice Mix,Gourmet & World Food,Entree,3,242.25,2025-02-16,Credit Card
+ORD00125,CUST0092,Sushi Vinegar,Gourmet & World Food,Japanese Choice,5,1225.0,2025-02-08,Credit Card
+ORD00126,CUST0078,Fig Almond Conserve,Gourmet & World Food,The Gourmet Jar,4,1200.0,2025-03-09,Cash on Delivery
+ORD00127,CUST0031,"Purifying Cleanser - Lavender & Neem, For Kapha",Beauty & Hygiene,Shankara,3,4306.5,2025-01-16,Net Banking
+ORD00128,CUST0008,"Reusable Menstrual Cup With Medical Grade Silicone - Medium, FDA Approved",Beauty & Hygiene,Sirona,4,1197.0,2025-01-20,UPI
+ORD00129,CUST0076,Prickly Heat Powder - Soothing Lavender,Beauty & Hygiene,Dermi Cool,1,117.0,2025-01-06,Cash on Delivery
+ORD00130,CUST0100,Glass Fame Coffee Cup & Saucer Set - Black,"Kitchen, Garden & Pets",Iveo ,1,995.0,2025-02-05,Credit Card
+ORD00131,CUST0073,Nachoz - Sizzling Peri Peri,Snacks & Branded Foods,ACT II,3,189.0,2024-12-01,Debit Card
+ORD00132,CUST0029,"Spin Mop With Bucket, PSB 10 42604",Cleaning & Household,Prestige,2,3998.0,2024-12-28,Debit Card
+ORD00133,CUST0015,Smart Baby Diaper Pants - Medium,Baby Care,Bebe,1,1049.0,2025-03-09,Debit Card
+ORD00134,CUST0073,Onion - Organically Grown,Fruits & Vegetables,Fresho,5,175.0,2025-02-04,Cash on Delivery
+ORD00135,CUST0063,Chyawanprash - Immunity Booster,Beauty & Hygiene,Jiva Ayurveda,5,925.0,2025-03-29,Cash on Delivery
+ORD00136,CUST0055,Namkeen - Khara Boondi,Snacks & Branded Foods,Sln  ,2,76.0,2024-12-13,UPI
+ORD00137,CUST0068,Moringa - Mint Herbal Infusion,Gourmet & World Food,Teamonk,4,1120.0,2025-01-15,Credit Card
+ORD00138,CUST0090,Dog Treats - Biscuit Twined With Chicken,"Kitchen, Garden & Pets",Chip Chops,2,390.0,2025-01-03,Debit Card
+ORD00139,CUST0098,Ayurvedic Scalp & Hair Oil,Beauty & Hygiene,Kesh King,5,1650.0,2025-01-01,Credit Card
+ORD00140,CUST0061,Olive Oil,Gourmet & World Food,RYCA,3,783.0,2025-03-14,Debit Card
+ORD00141,CUST0077,"Green Printed Pencil Pouch - PU, BB1287GRN",Cleaning & Household,DP,1,104.0,2025-02-12,Net Banking
+ORD00142,CUST0042,Kohinoor Charminar Brown Rice 1 kg + Zingy Schezwan Multi-Use Seasoning 12 g,"Foodgrains, Oil & Masala",Kohinoor,5,525.0,2025-03-28,Credit Card
+ORD00143,CUST0061,Veg Soya Chaap,Gourmet & World Food,Urban Platter,1,308.75,2025-03-03,Debit Card
+ORD00144,CUST0091,Mori-Naga-Silken-Tofu-Firm,Gourmet & World Food,Tofu,4,1200.0,2024-12-23,Net Banking
+ORD00145,CUST0065,"Space Saver Modular Kitchen Storage Plastic Container - Transparent, With Blue Lid","Kitchen, Garden & Pets",Mahaware,5,645.0,2025-03-15,UPI
+ORD00146,CUST0039,Skin Illuminate Vitamin C Serum For Radiant Skin with High Potency Vitamin C & Turmeric,Beauty & Hygiene,Mamaearth,5,2995.0,2025-02-21,Debit Card
+ORD00147,CUST0020,Herbal Green Tea Kadha - Helps Fight Flu & Infection,Gourmet & World Food,Sancha,1,350.0,2025-03-04,Cash on Delivery
+ORD00148,CUST0065,"Rusk - Suji Elaichi Light, Crisp & Delicious Toast","Bakery, Cakes & Dairy",Bhikhaaram Chandmal,4,396.0,2024-12-11,UPI
+ORD00149,CUST0039,Til/Ellu - Nylon,"Foodgrains, Oil & Masala",bb Royal,3,216.0,2025-01-14,Net Banking
+ORD00150,CUST0052,Fair+Glow Sun Screen Lotion SPF 20,Beauty & Hygiene,Vlcc,4,715.0,2025-03-30,UPI
+ORD00151,CUST0051,"LED Lamp/T-Bulb - 14 Watt, Cool Daylight White, B22 Base","Kitchen, Garden & Pets",Philips,2,598.0,2025-03-06,Cash on Delivery
+ORD00152,CUST0059,Bugspray - Herbal Bed Bug Repellent Spray,Cleaning & Household,Herbal Strategi,1,250.0,2025-02-20,Net Banking
+ORD00153,CUST0078,Frozen - Mixed Vegetables,Snacks & Branded Foods,Safal,1,93.5,2025-01-09,Cash on Delivery
+ORD00154,CUST0062,"Swiss Milk Chocolate - With Honey & Almond Nougat, Yellow",Gourmet & World Food,Toblerone,1,225.0,2025-01-10,Cash on Delivery
+ORD00155,CUST0043,Clear Complexion Brightening Body Lotion,Beauty & Hygiene,Himalaya,5,1085.0,2024-12-20,Debit Card
+ORD00156,CUST0028,Hygienic Hand Sanitiser Liquid,Beauty & Hygiene,Savlon,5,500.0,2025-02-28,Credit Card
+ORD00157,CUST0065,Millet Muesli - Diet,Snacks & Branded Foods,Soulfull,2,898.0,2024-12-07,Net Banking
+ORD00158,CUST0055,Sauteed Onion & Garlic Pasta Sauce,Gourmet & World Food,Ragu,4,1800.0,2025-03-07,Cash on Delivery
+ORD00159,CUST0033,Giloy With Amla Juice,Gourmet & World Food,Nutriorg,5,1102.5,2025-02-03,UPI
+ORD00160,CUST0079,Golden Glow Cream,Beauty & Hygiene,Aroma Treasures,2,891.0,2025-01-25,Debit Card
+ORD00161,CUST0056,Sweet & Sour Gherkins,Gourmet & World Food,Hugo Reitzel ,4,522.0,2024-12-19,Credit Card
+ORD00162,CUST0016,Whiteglow Active Skin Whitening + Oil Control Facewash,Beauty & Hygiene,Lotus Herbals,3,336.0,2024-12-11,Net Banking
+ORD00163,CUST0016,Almonds - Salted,Gourmet & World Food,Tong Garden,5,2868.75,2025-03-06,UPI
+ORD00164,CUST0016,"Envelope - Cloth Lined, Green, 11 x 5 inches",Cleaning & Household,Ravi,5,345.0,2025-01-21,Debit Card
+ORD00165,CUST0094,Tooth Brush - Kid 3-6 Years,Beauty & Hygiene,Trisa ,1,229.0,2025-01-21,Cash on Delivery
+ORD00166,CUST0061,"Click Gel - Car Vent Air Freshener Kit, Bright Tangy Delight",Cleaning & Household,Aer,4,1100.32,2025-03-10,Credit Card
+ORD00167,CUST0007,Natural Mosquito Repellent Cream With Aloe Vera & Neem Extracts,Cleaning & Household,Bodyguard,2,126.0,2025-01-31,Cash on Delivery
+ORD00168,CUST0092,Ground Coffee - Club,Gourmet & World Food,Lavazza,2,1500.0,2025-02-01,Net Banking
+ORD00169,CUST0064,Prime Organic Apple Cider Vinegar - Raw Unfiltered with EXTRA Mother,Gourmet & World Food,ADIRA,5,2245.5,2024-12-26,Cash on Delivery
+ORD00170,CUST0016,Skin Care Wipes,Baby Care,Johnson's baby,5,375.0,2025-03-05,
+ORD00171,CUST0017,"Hand Wash - Naturals, Black Orchid & Milk",Beauty & Hygiene,Palmolive,2,178.2,2025-01-01,UPI
+ORD00172,CUST0085,Toilet Cleaner - Kills 99% Germs,Cleaning & Household,Mr Muscle,3,225.0,2025-03-10,Net Banking
+ORD00173,CUST0070,Barbeque Sauce Original,Gourmet & World Food,American Garden ,3,855.0,2025-02-26,Cash on Delivery
+ORD00174,CUST0006,"Garnet LED Bulb -12 Watt, White, Cool Day, B22","Kitchen, Garden & Pets",Wipro,1,179.0,2024-12-15,Net Banking
+ORD00175,CUST0075,"Body Bath+Scrub - Orange, Peach Essence",Beauty & Hygiene,Skin Cottage ,4,1796.0,2025-01-16,Debit Card
+ORD00176,CUST0002,Shikakai Hair Care Powder - Pure Herb,Beauty & Hygiene,Banjara's,2,120.0,2025-01-11,Debit Card
+ORD00177,CUST0084,Rainbow Assorted Flavour Chewy Candy,Snacks & Branded Foods,Mentos,5,250.0,2025-02-22,UPI
+ORD00178,CUST0076,"Three Fold Premium Umbrella - Three Fold, Auto Open & Close, Windproof, Plain Black Coloured","Kitchen, Garden & Pets",Parachase,3,2907.0,2024-12-22,Debit Card
+ORD00179,CUST0033,Olive Oil - Classic,Gourmet & World Food,BORGES,5,1344.95,2025-03-16,Net Banking
+ORD00180,CUST0071,Handmade Peppermint & Aloe Vera Soap,Beauty & Hygiene,Fizzy Fern,5,1253.75,2024-12-19,Net Banking
+ORD00181,CUST0064,Wonder Pants Xtra Large - 90 Diapers,Baby Care,Huggies,1,1463.09,2025-03-29,Credit Card
+ORD00182,CUST0083,Stainless Steel - Utensil Scrubber,Cleaning & Household,Milton - Spotzero,2,50.0,2025-02-26,Debit Card
+ORD00183,CUST0098,Keto Nachos,Gourmet & World Food,Ketofy,2,598.0,2025-03-07,UPI
+ORD00184,CUST0082,Kitchen / Tile Brush - Multifuction,Cleaning & Household,Liao,1,99.0,2025-03-05,UPI
+ORD00185,CUST0033,"Shampoo - For Dry Damaged Color Treated & Permed Hair, Bio Soya Protein",Beauty & Hygiene,BIOTIQUE,2,148.5,2025-02-18,Credit Card
+ORD00186,CUST0024,Ponds Starlight Talc,Beauty & Hygiene,Ponds,3,360.0,2024-12-02,Debit Card
+ORD00187,CUST0014,Puja Flower Wicks - Puvvu Vathulu Batti,Cleaning & Household,Jaji,1,20.0,2025-01-09,Net Banking
+ORD00188,CUST0006,Pasta Sauce Cheesy Creamy Mix,Snacks & Branded Foods,Weikfield,4,120.0,2024-12-03,Debit Card
+ORD00189,CUST0050,Stainless Steel Canister/Container - Hammered,"Kitchen, Garden & Pets",Neelam,2,798.0,2025-03-05,Cash on Delivery
+ORD00190,CUST0092,Floor Mop,Cleaning & Household,Gala,2,372.0,2024-12-27,Cash on Delivery
+ORD00191,CUST0044,Tea Tree Aloe Gel,Beauty & Hygiene,Aroma Treasures,5,1215.0,2025-03-07,Debit Card
+ORD00192,CUST0019,Opalware Ivory Dinner Set - Cherry Petal,"Kitchen, Garden & Pets",Laopala Diva,5,9445.0,2025-01-31,Cash on Delivery
+ORD00193,CUST0093,Dual Floor Cloth - Pochha,Cleaning & Household,Gala,2,118.0,2025-02-27,UPI
+ORD00194,CUST0070,"Select - Chai Masala, Nutmeg","Foodgrains, Oil & Masala",Valley Spice,4,300.0,2025-02-13,Cash on Delivery
+ORD00195,CUST0048,Snacks - Roasted Chia Seeds,Gourmet & World Food,GoodDiet,1,149.0,2025-01-02,Credit Card
+ORD00196,CUST0076,Almonds + Cashews Whole (100% Natural 200G) + Green Raisins Seedless 250G,Gourmet & World Food,Happilo,1,549.75,2025-01-06,Credit Card
+ORD00197,CUST0051,"Toothpaste - Gum Care, Expert Protection",Beauty & Hygiene,Pepsodent,5,392.0,2025-01-04,UPI
+ORD00198,CUST0052,Juzt Jelly - Guava Flavour,Snacks & Branded Foods,ALPENLIEBE,4,200.0,2025-02-22,UPI
+ORD00199,CUST0048,Millet Cookies - Vanilla Choco Elite,"Bakery, Cakes & Dairy",Praana,1,39.0,2025-01-19,Debit Card
+ORD00200,CUST0031,Diet Jam - Mixed Fruit,Snacks & Branded Foods,Snacky,3,300.0,2025-03-21,UPI
+ORD00201,CUST0073,Safe Sun Sun Block Cream PA+ - SPF 20,Beauty & Hygiene,Lotus Herbals,1,209.3,2025-01-07,Net Banking
+ORD00202,CUST0080,Milk Delights Face Wash With Saffron For Normal Skin,Beauty & Hygiene,Nivea,2,280.0,2025-01-18,Cash on Delivery
+ORD00203,CUST0046,Quinoa - Organic Red,Gourmet & World Food,Nourish You,1,495.0,2025-03-26,Debit Card
+ORD00204,CUST0028,W4 Perfume Spray - For Women,Beauty & Hygiene,Engage,4,630.0,2025-03-21,Cash on Delivery
+ORD00205,CUST0097,Chocolate Syrup,Snacks & Branded Foods,Hersheys ,5,355.0,2024-12-12,Credit Card
+ORD00206,CUST0001,Jar With Steel Cap Set,"Kitchen, Garden & Pets",Yera,2,378.0,2025-02-03,Net Banking
+ORD00207,CUST0100,Shahi Paneer Masala,"Foodgrains, Oil & Masala",Eastern,5,688.75,2025-03-29,
+ORD00208,CUST0001,Bull Force Shilajit With Most Potent Herbs,Beauty & Hygiene,Rock Gold,1,1449.0,2025-01-01,Cash on Delivery
+ORD00209,CUST0003,Sugar Less - Gulab Jamun,Snacks & Branded Foods,Dezire,3,555.0,2025-01-12,Net Banking
+ORD00210,CUST0003,Bhakhri Baked Mathri - Masala,Snacks & Branded Foods,Tasties,4,440.0,2025-03-06,Credit Card
+ORD00211,CUST0060,Designer Glass Bowl,"Kitchen, Garden & Pets",Blinkmax,1,640.0,2025-01-14,Debit Card
+ORD00212,CUST0094,"Millet Granola with Rolled Oats, Cranberries and Almonds - No Added Sugar",Snacks & Branded Foods,True Elements,3,99999.0,2025-02-19,Debit Card
+ORD00213,CUST0037,Stainless Steel Flat Botton Urli - No. 11,"Kitchen, Garden & Pets",Kitchen Essentials,2,258.0,2025-02-03,Debit Card
+ORD00214,CUST0009,"Vitamin C, E & Hyaluronic Acid Brightening Night Cream With Argan Oil",Beauty & Hygiene,StBotanica,1,669.0,2025-02-19,Debit Card
+ORD00215,CUST0031,"Two Tone Plastic Bowl/ Fruits & Vegetable Basket - No. 3, White Base With Blue Ring, L2303","Kitchen, Garden & Pets",Princeware,4,276.0,2025-03-24,UPI
+ORD00216,CUST0051,Ayurvedic Shampoo - Hair Care,Beauty & Hygiene,K.P. Namboodiris,5,250.0,2025-01-05,Credit Card
+ORD00217,CUST0067,"Padded Collar - 3/4 inch, Blue Colour","Kitchen, Garden & Pets",Glenand,2,990.0,2025-01-13,Net Banking
+ORD00218,CUST0009,Honey Lemon,Snacks & Branded Foods,RiteBite Max Protein,2,240.0,2024-12-12,Net Banking
+ORD00219,CUST0044,Coconut & Tea Tree Oil Nourishing Body Wash,Beauty & Hygiene,Kaya Clinic,5,1196.0,2025-02-25,Cash on Delivery
+ORD00220,CUST0090,Lip Balm - Raspberry,Beauty & Hygiene,Lotus Herbals,2,380.0,2025-01-23,Credit Card
+ORD00221,CUST0002,Skin Repair Combo,Beauty & Hygiene,Richfeel,5,1990.0,2024-12-20,Net Banking
+ORD00222,CUST0095,Crispy Veggie Burger Patty,Snacks & Branded Foods,Yummiez,3,417.0,2025-03-27,Cash on Delivery
+ORD00223,CUST0035,"Naturally Soft Sanitary Napkin Extra Long, 275mm",Beauty & Hygiene,Niine,3,94.5,2025-01-27,Cash on Delivery
+ORD00224,CUST0030,Himalayan Pink Salt,Gourmet & World Food,Graminway,2,458.0,2024-12-27,Credit Card
+ORD00225,CUST0056,"Pure - Handmade Neem & Aloevera Bathing Bar, With Natural Leaves",Beauty & Hygiene,BodyHerbals,5,995.0,2025-02-08,Credit Card
+ORD00226,CUST0075,Shower Gel - Cool Burst For Men With Menthol Crystals,Beauty & Hygiene,Fiama,2,298.5,2025-01-09,Cash on Delivery
+ORD00227,CUST0043,Baby Cottontouch Newborn Cream,Baby Care,Johnsons,2,340.0,2025-01-25,Credit Card
+ORD00228,CUST0090,"Incense Sticks - Namo Kirtan, Scented",Cleaning & Household,GIRI,5,250.0,2025-03-28,Credit Card
+ORD00229,CUST0055,20g Whey Protein Bar - Cranberry Orange,Gourmet & World Food,GoodDiet,3,1035.0,2024-12-09,Cash on Delivery
+ORD00230,CUST0048,Diamond Hair Remover - For Dry Skin,Beauty & Hygiene,Astaberry,5,356.25,2025-03-03,UPI
+ORD00231,CUST0073,Extra Virgin Coconut Massage Oil for Hair & Body,Beauty & Hygiene,Aloe Veda,2,765.0,2025-01-10,Credit Card
+ORD00232,CUST0019,"Clothes Storage Laundry Bag - Printed, Brown, BB-564BRWN",Cleaning & Household,DP,1,369.0,2025-03-08,Debit Card
+ORD00233,CUST0073,Pickle - Mixed,Snacks & Branded Foods,Mother's Recipe,4,476.0,2025-01-22,Debit Card
+ORD00234,CUST0074,Nachos Peri Peri,Gourmet & World Food,Tex Mex Salsalito,4,324.0,2025-03-06,Debit Card
+ORD00235,CUST0039,"Vegan Premium Ghee/Tuppa - Palm Oil Free, 100% Natural","Foodgrains, Oil & Masala",Live Yum,2,1198.0,2025-03-10,Credit Card
+ORD00236,CUST0055,"Beer - Cranberry, Non-Alcoholic",Gourmet & World Food,Coolberg,1,109.0,2024-12-17,Credit Card
+ORD00237,CUST0045,"Steel Dinner Plate/Thali - No. 12, Gujrati","Kitchen, Garden & Pets",BB Home,1,329.0,2025-03-08,Cash on Delivery
+ORD00238,CUST0022,"Anticolic Feeding Bottle - Pink, Green, 2m+",Baby Care,Chicco,5,2895.0,2025-01-04,Cash on Delivery
+ORD00239,CUST0006,"Steel See Thru, Jars, Plain Design, Round","Kitchen, Garden & Pets",Yera,5,695.0,2025-02-17,Credit Card
+ORD00240,CUST0068,Agarbathi Lia - Samptrupti Incense Sticks,Cleaning & Household,Cycle,5,250.0,2024-12-30,Credit Card
+ORD00241,CUST0008,100% Natural Intimate Wipes,Beauty & Hygiene,Plush,1,120.0,2025-01-15,UPI
+ORD00242,CUST0004,"Pasta - Buckwheat, Gluten Free",Gourmet & World Food,Voila,4,600.0,2024-12-18,Cash on Delivery
+ORD00243,CUST0061,"Plastic & Stainless Steel Lunch Box - Red, BB1380RED","Kitchen, Garden & Pets",Tedemi,5,3195.0,2025-01-30,Debit Card
+ORD00244,CUST0036,Dishwasher Tablets Powerball Classic,Cleaning & Household,Finish,2,3398.0,2025-03-20,Net Banking
+ORD00245,CUST0069,Drink - Original,"Bakery, Cakes & Dairy",So Good,4,842.4,2025-01-30,Credit Card
+ORD00246,CUST0043,Active Fruits Damage Repair Body Lotion SPF 30 PA+++,Beauty & Hygiene,Vlcc,2,598.5,2024-12-25,Credit Card
+ORD00247,CUST0022,Mango Slim Shake - Weight Control Powered By Ayurveda,Beverages,Kapiva Ayurveda,1,584.1,2025-01-22,UPI
+ORD00248,CUST0098,"Greek Yogurt - Natural, Low Fat",Gourmet & World Food,Epigamia ,3,897.0,2025-01-22,Credit Card
+ORD00249,CUST0040,Fenugreek Pickle,Gourmet & World Food,Sakurafresh,2,520.0,2025-03-07,Credit Card
+ORD00250,CUST0082,Tropical Fruit Mix,Snacks & Branded Foods,Graminway,1,180.0,2024-12-23,Net Banking
+ORD00251,CUST0100,Soft Dried Turkish Apricot,Gourmet & World Food,DOLE,5,675.0,2025-02-01,Debit Card
+ORD00252,CUST0013,"Wafers - Waffy, Golden Cream",Snacks & Branded Foods,Dukes,4,90.0,2025-03-24,Credit Card
+ORD00253,CUST0022,Rock Salt/Uppu,"Foodgrains, Oil & Masala",Conscious Food,4,276.0,2025-01-21,UPI
+ORD00254,CUST0036,Chai Masala,"Foodgrains, Oil & Masala",Keya,5,475.0,2025-03-05,Net Banking
+ORD00255,CUST0065,"Envelope - Brown, 7 x 4 inches",Cleaning & Household,Ravi,3,126.0,2025-01-20,Cash on Delivery
+ORD00256,CUST0032,"Aloevera Juice - Supports Skin, Digestion & Energy",Beverages,Dr. Vaidya's,5,1250.0,2025-02-15,Cash on Delivery
+ORD00257,CUST0035,Organic - Rasam Powder,"Foodgrains, Oil & Masala",Organic Tattva,5,308.75,2025-02-21,UPI
+ORD00258,CUST0096,Beetroot Training Treat,"Kitchen, Garden & Pets",Dogsee Crunch,5,995.0,2024-12-14,Net Banking
+ORD00259,CUST0097,Chocolate Milk - Choc,Gourmet & World Food,Tango,4,120.0,2025-03-16,UPI
+ORD00260,CUST0052,Paper Glass - Assorted Colour,Cleaning & Household,B Vishal,2,56.0,2025-02-05,Cash on Delivery
+ORD00261,CUST0053,Moisturising Cream,Beauty & Hygiene,Elovera,4,768.0,2025-03-05,UPI
+ORD00262,CUST0093,Badam Shake,"Bakery, Cakes & Dairy",Storia,5,707.95,2025-01-19,Cash on Delivery
+ORD00263,CUST0066,Keratin Smooth Hair Serum,Beauty & Hygiene,TRESemme,1,450.0,2024-12-25,Debit Card
+ORD00264,CUST0093,Organic Semi Brown Rice/Akki,"Foodgrains, Oil & Masala",24 Mantra,4,1900.0,2025-01-20,Debit Card
+ORD00265,CUST0064,Pasta Sauce - Napoletana,Gourmet & World Food,Barilla,3,1047.0,2025-01-29,Credit Card
+ORD00266,CUST0002,Hygienic Hand Sanitiser Liquid,Beauty & Hygiene,Savlon,4,400.0,2025-01-07,Cash on Delivery
+ORD00267,CUST0029,Fresh Organic Amla Powder - For Kids,Baby Care,Early Foods,1,250.0,2025-02-27,Cash on Delivery
+ORD00268,CUST0070,Multipurpose 3 Tier Rack,"Kitchen, Garden & Pets",Saura,2,690.0,2025-01-29,Net Banking
+ORD00269,CUST0017,Fresh Catch Basa Fish Fillets,"Eggs, Meat & Fish",Ifb,1,450.0,2025-03-03,Cash on Delivery
+ORD00270,CUST0081,Tangy Barbeque Jumbo Makhanas,Gourmet & World Food,FabBox,1,79.0,2024-12-24,Cash on Delivery
+ORD00271,CUST0006,Crunchy Muesli - Almond Raisins And Honey,Snacks & Branded Foods,Bagrrys,5,2495.0,2024-12-18,Net Banking
+ORD00272,CUST0039,Classic Salted Peanuts,Snacks & Branded Foods,Avean,4,200.0,2025-01-11,Net Banking
+ORD00273,CUST0030,Vita Marie Gold Biscuits,Snacks & Branded Foods,Britannia,1,102.0,2024-12-23,Net Banking
+ORD00274,CUST0005,"Simply - Hair Removal Razor For Women, 3 Blades",Beauty & Hygiene,Gillette Venus,5,350.0,2025-03-25,Credit Card
+ORD00275,CUST0023,Raw Coffret For Men,Beauty & Hygiene,Skinn by Titan,4,6061.0,2024-12-12,
+ORD00276,CUST0022,Kesari Jivan - Fit For Diabetics,Beauty & Hygiene,Zandu,3,2265.0,2025-02-27,Credit Card
+ORD00277,CUST0008,Smartwater,Beverages,Glaceau ,1,300.0,2024-12-12,UPI
+ORD00278,CUST0053,"Organic - Urad Dal/Uddina Bele, Black (Split)","Foodgrains, Oil & Masala",bb Royal,4,1100.0,2025-02-20,Debit Card
+ORD00279,CUST0029,Gliss Hair Repair Ultimate Repair Oil Replacement,Beauty & Hygiene,Schwarzkopf,1,425.0,2025-02-06,Net Banking
+ORD00280,CUST0093,Eau De Toilette For Men,Beauty & Hygiene,Bentley,5,24525.0,2025-02-17,Credit Card
+ORD00281,CUST0012,"Coffee Almonds - Roasted With Ground Coffee, Crunchy & Zero Oil",Gourmet & World Food,Nutty Gritties,4,1540.0,2025-02-09,Net Banking
+ORD00282,CUST0070,Sponge Brush - Bottle Cleaning,Cleaning & Household,Liao,1,119.0,2025-03-09,Credit Card
+ORD00283,CUST0020,Kitchen King Masala,"Foodgrains, Oil & Masala",bb Royal,3,63.0,2025-02-11,Credit Card
+ORD00284,CUST0052,Organic Paneer,"Bakery, Cakes & Dairy",Farm Connect,2,230.0,2025-03-22,Credit Card
+ORD00285,CUST0065,Body Spray - Voyage,Beauty & Hygiene,Park avenue,2,432.0,2025-03-09,UPI
+ORD00286,CUST0089,Millet Based Nutrition Bar - Khus & Fig,Gourmet & World Food,Ah!rogya Bar,4,100.0,2025-01-09,Debit Card
+ORD00287,CUST0002,Hand Made Soap - Vetiver,Beauty & Hygiene,Wild Ideas,4,440.0,2025-01-06,Credit Card
+ORD00288,CUST0098,Jain Italian Spice Mix,Gourmet & World Food,Entree,1,71.25,2025-03-26,Credit Card
+ORD00289,CUST0095,Brown Sugar/Sakkare,"Foodgrains, Oil & Masala",Natureland Organics,2,160.0,2024-12-01,Cash on Delivery
+ORD00290,CUST0029,"Grater - with Peeler, Stainless Steel","Kitchen, Garden & Pets",Kvg,3,237.0,2024-12-02,Net Banking
+ORD00291,CUST0067,Green Tea - Jasmine,Beverages,Twinings,4,1140.0,2025-03-20,
+ORD00292,CUST0044,Chilli Flavoured Broad Beans With Skin,Gourmet & World Food,Tong Garden,5,300.0,2025-03-14,UPI
+ORD00293,CUST0093,"Millet Granola with Rolled Oats, Cranberries and Almonds - No Added Sugar",Snacks & Branded Foods,True Elements,5,2300.0,2025-03-23,Net Banking
+ORD00294,CUST0094,Piping Bag & Patisserie,"Kitchen, Garden & Pets",Fackelmann,2,658.0,2024-12-28,Cash on Delivery
+ORD00295,CUST0051,"Doraemon Double Compartment Flexible Partition Plastic Lunch Box - With Fork & Spoon, Assorted Colour","Kitchen, Garden & Pets",Yellow Spark,4,596.0,2025-01-28,Net Banking
+ORD00296,CUST0022,Snacks - Roasted Oats Mix Wasabi,Gourmet & World Food,GoodDiet,4,316.0,2024-12-11,Cash on Delivery
+ORD00297,CUST0026,Green Tea With Lemon & Honey,Beverages,Sprig Tea,5,395.0,2024-12-01,Credit Card
+ORD00298,CUST0034,Essential Tea Tree Oil & Neem Face Wash,Beauty & Hygiene,ST. D'VENCE,5,1495.0,2025-01-05,Cash on Delivery
+ORD00299,CUST0099,"Pure Radiance Under Eye Cream - For Dark Circles, Puffiness, Wrinkles & Bags",Beauty & Hygiene,StBotanica,5,2995.0,2025-03-15,Credit Card
+ORD00300,CUST0073,Sweet Care - Low GI Sugar,"Foodgrains, Oil & Masala",Parry's,1,40.0,2024-12-24,Credit Card
+ORD00301,CUST0057,Stainless Steel Dessert Fork - Wednesde,"Kitchen, Garden & Pets",Anjali,1,169.0,2025-02-22,Debit Card
+ORD00302,CUST0057,Ready to Eat - Chicken Darbari,Snacks & Branded Foods,Kitchens Of India,1,190.0,2024-12-19,UPI
+ORD00303,CUST0010,"Brownie - Chocolate Walnut Whole Wheat, Eggless","Bakery, Cakes & Dairy",BHealthy,5,695.0,2025-03-18,Cash on Delivery
+ORD00304,CUST0046,"Cerelac Baby Cereal with Milk - Multigrain Dal Veg, From 12-24 Months, Rich in Iron",Baby Care,Nestle ,3,792.0,2025-01-12,UPI
+ORD00305,CUST0041,Whole Wheat Atta Noodles,Gourmet & World Food,Kims,1,95.0,2024-12-14,Net Banking
+ORD00306,CUST0059,The Pug Groom Box,"Kitchen, Garden & Pets",Captain Zack,2,4500.0,2024-12-21,Debit Card
+ORD00307,CUST0059,"Aluminium Hammered Finish Kadhai Handi - 950 ml, Silver","Kitchen, Garden & Pets",HAZEL,5,1495.0,2025-02-23,Cash on Delivery
+ORD00308,CUST0040,"Wax Decorative Scented Tealight Candles - Blueberry, BB-1261-5",Cleaning & Household,DP,5,695.0,2025-03-11,Cash on Delivery
+ORD00309,CUST0042,"Aluminium Cake Mould - Round, Assorted Colour","Kitchen, Garden & Pets",Rolex ,2,898.0,2025-01-28,Cash on Delivery
+ORD00310,CUST0093,Banana Flower,Fruits & Vegetables,Fresho,3,63.0,2025-03-30,UPI
+ORD00311,CUST0010,Easy Mix - Palappam,Snacks & Branded Foods,Double Horse,1,69.0,2025-03-09,Debit Card
+ORD00312,CUST0041,Magic Seal Rectangular Plastic Storage Containers - Pink,"Kitchen, Garden & Pets",Polyset,3,237.0,2025-01-17,Net Banking
+ORD00313,CUST0063,Naan Chips - Chatpata Pudina,Gourmet & World Food,Wingreens Farms,1,20.0,2025-03-08,Net Banking
+ORD00314,CUST0011,Soap Case - Wex,Beauty & Hygiene,Reliance Plast,5,325.0,2024-12-09,Debit Card
+ORD00315,CUST0022,Chilli Masala Pumpkin,Gourmet & World Food,True Elements,4,596.0,2024-12-18,UPI
+ORD00316,CUST0015,"3mm Hard Aluminium Anodized Fry Pan - Induction Base, 20 cm, Black","Kitchen, Garden & Pets",HAZEL,3,2097.0,2025-01-12,Cash on Delivery
+ORD00317,CUST0027,"Storage Canister/Container With Air Tight Glass Lid - Cantera, Stainless Steel Copper Plating","Kitchen, Garden & Pets",Shri & Sam,4,4396.0,2025-02-06,Credit Card
+ORD00318,CUST0065,Silver Eau De Toilette For Men,Beauty & Hygiene,Mercedes-Benz,2,10620.0,2025-02-17,UPI
+ORD00319,CUST0022,White Chocolate & Cranberry Cookies,Gourmet & World Food,Merba,1,325.0,2025-02-12,Cash on Delivery
+ORD00320,CUST0087,Disinfectant Surface Cleaner,Cleaning & Household,Nature Protect,1,105.0,2025-01-31,Cash on Delivery
+ORD00321,CUST0064,Coconut Scraper - Wooden Handle,"Kitchen, Garden & Pets",Kvg,3,195.0,2025-01-24,Cash on Delivery
+ORD00322,CUST0057,Executive Stainless Steel Lunch/Tiffin Box With Containers & Cover - Red,"Kitchen, Garden & Pets",Milton,3,987.0,2025-01-03,Cash on Delivery
+ORD00323,CUST0065,Shahi Sabji Masala,"Foodgrains, Oil & Masala",Keya,5,135.0,2025-02-18,Debit Card
+ORD00324,CUST0032,"Plastic Dustbin/Basket - Purple, PL BB 619 1",Cleaning & Household,Sunty,2,618.0,2025-02-17,Cash on Delivery
+ORD00325,CUST0099,Vermicelli - Roasted,Snacks & Branded Foods,MTR,4,360.0,2025-02-05,Net Banking
+ORD00326,CUST0051,Luminosity Anti Pigmentation Serum,Beauty & Hygiene,Organic Harvest,4,5985.0,2025-03-14,Credit Card
+ORD00327,CUST0078,Mix - Semiya Payasam,Snacks & Branded Foods,Aachi,5,375.0,2024-12-30,Debit Card
+ORD00328,CUST0020,Baby Powder,Baby Care,Softsens,2,250.0,2024-12-01,UPI
+ORD00329,CUST0033,"Beans - Double, White","Foodgrains, Oil & Masala",bb Royal,1,75.0,2025-01-29,UPI
+ORD00330,CUST0095,Papad - Plain,Snacks & Branded Foods,Iyers ,2,170.0,2025-03-13,Cash on Delivery
+ORD00331,CUST0058,"Utensils-Dish Drainer/Basket/Drying Rack - Round, Large, Stainless Steel, VR10246","Kitchen, Garden & Pets",HAZEL,4,9196.0,2025-01-22,UPI
+ORD00332,CUST0083,Fruit Bread,"Bakery, Cakes & Dairy",Britannia,3,60.0,2025-01-14,Cash on Delivery
+ORD00333,CUST0082,Organic - Channa Brown/Kadale Kaalu,"Foodgrains, Oil & Masala",bb Royal,2,194.0,2024-12-02,Credit Card
+ORD00334,CUST0074,Peanut Satay Sauce,Gourmet & World Food,Real Thai,3,660.0,2025-01-02,UPI
+ORD00335,CUST0022,Saffron,"Foodgrains, Oil & Masala",LAXMI NARAYAN,3,900.0,2025-01-08,Cash on Delivery
+ORD00336,CUST0001,Butter Cookies,"Bakery, Cakes & Dairy",Milk Ma,5,200.0,2025-01-11,UPI
+ORD00337,CUST0038,Ayurvedic Guduchi Powder,Beauty & Hygiene,Meghdoot,1,60.0,2025-02-26,Debit Card
+ORD00338,CUST0064,Voyage Man Eau De Toilette,Beauty & Hygiene,Nautica,3,7320.0,2025-01-20,Cash on Delivery
+ORD00339,CUST0089,"Talc - Golden Beauty, Moon Drop",Beauty & Hygiene,Emami,5,1150.0,2024-12-04,Credit Card
+ORD00340,CUST0023,Millet Masala Oats - Chinese Chilly,Snacks & Branded Foods,GoodDiet,2,181.0,2025-01-12,Debit Card
+ORD00341,CUST0006,Bottle Gourd - Organically Grown,Fruits & Vegetables,Fresho,4,88.0,2025-03-28,Net Banking
+ORD00342,CUST0092,Anti Pigmentation Glossy Pack - Fades Blemishes & Dark Circles,Beauty & Hygiene,Aroma Magic ,1,556.5,2025-02-21,Credit Card
+ORD00343,CUST0099,Magic Seal Round Storage Plastic Container - Royal Red,"Kitchen, Garden & Pets",Polyset,4,356.0,2024-12-20,Net Banking
+ORD00344,CUST0059,Soya Chunks - Mini,"Foodgrains, Oil & Masala",Nutrela,5,75.0,2025-03-25,Debit Card
+ORD00345,CUST0011,Opalware Ivory Snack Bowl Set - Cherry Petal,"Kitchen, Garden & Pets",Laopala Diva,4,1800.0,2025-03-11,Net Banking
+ORD00346,CUST0048,"100% Compostable & Bio-Degradable Garbage Bags - Large, 24X32",Cleaning & Household,Pearl Luxury,1,153.0,2025-03-17,Cash on Delivery
+ORD00347,CUST0085,Honey Doodh Shot,"Bakery, Cakes & Dairy",Amul,3,63.75,2025-02-11,Debit Card
+ORD00348,CUST0030,Alkaline Battery Max AA (8+4 Free),"Kitchen, Garden & Pets",Energizer,5,1425.0,2025-02-07,UPI
+ORD00349,CUST0097,"Pro Signature Range - Vitamin C Brightening Facial, Aromatherapy For Professionals",Beauty & Hygiene,Aroma Magic ,2,5880.0,2025-02-12,Debit Card
+ORD00350,CUST0016,FunFoods Peanut Butter Crunchy,Snacks & Branded Foods,Dr. Oetker,3,852.0,2024-12-09,Credit Card
+ORD00351,CUST0099,Dishwash Bar-Lemon 125 g Poly pack + Scrub Sponge Pad 2 pcs,Cleaning & Household,BB Home,3,187.2,2025-03-18,UPI
+ORD00352,CUST0078,D'licia - Whip Topping,"Bakery, Cakes & Dairy",D'Lecta,3,492.0,2025-01-18,Cash on Delivery
+ORD00353,CUST0061,Wafers - Orange Cream,Gourmet & World Food,Nutro,2,75.0,2025-02-12,Cash on Delivery
+ORD00354,CUST0094,"Stainless Steel  Induction Compatible Pressure Cooker - Silver, HSS10","Kitchen, Garden & Pets",Hawkins,4,21280.0,2024-12-24,Cash on Delivery
+ORD00355,CUST0099,My Dream For Him - Perfumed Deodorant Natural Spray,Beauty & Hygiene,Embark,1,295.0,2025-03-21,Debit Card
+ORD00356,CUST0014,Cat Treat - Tempting Tuna Flavour,"Kitchen, Garden & Pets",Temptations,3,2646.0,2025-03-01,UPI
+ORD00357,CUST0069,"Pressed Bone - A delicious Rawhide Chew Treat, 6""","Kitchen, Garden & Pets",Pet en Care,3,840.0,2025-01-22,UPI
+ORD00358,CUST0021,Stainless Steel Tea Spoon - Sunday Sapphire,"Kitchen, Garden & Pets",Anjali,4,596.0,2025-03-23,Credit Card
+ORD00359,CUST0024,Steel Flat Bottom Tope/Patila/Bhagona - No. 14,"Kitchen, Garden & Pets",BB Home,3,897.0,2025-01-27,Debit Card
+ORD00360,CUST0089,Cadbury Perk - Chocolate Bar,Snacks & Branded Foods,Cadbury,2,10.0,2025-02-06,Debit Card
+ORD00361,CUST0093,Ultimate Choco Berry,Snacks & Branded Foods,RiteBite Max Protein,2,1900.0,2024-12-15,Debit Card
+ORD00362,CUST0035,Garden Sprayer,"Kitchen, Garden & Pets",Natures Plus,1,135.0,2025-03-10,Credit Card
+ORD00363,CUST0090,Disinfectant Surface & Floor Cleaner Liquid - Lavender,Cleaning & Household,Lizol,1,671.0,2025-01-26,Cash on Delivery
+ORD00364,CUST0016,Coconut Oil,Beauty & Hygiene,ST. D'VENCE,1,254.0,2025-03-13,Net Banking
+ORD00365,CUST0059,Chana Whole,"Foodgrains, Oil & Masala",Turn Organic ,5,387.0,2024-12-20,Credit Card
+ORD00366,CUST0095,Instant Popcorn - Tomato Chilli,Snacks & Branded Foods,ACT II,3,89.1,2025-03-29,Net Banking
+ORD00367,CUST0047,Soft Drink Glass,"Kitchen, Garden & Pets",Krosno - Europe,5,5795.0,2025-01-09,Debit Card
+ORD00368,CUST0030,Pro Super Soft Reusable FDA Approved Menstrual Cup With Medical Grade Silicon - Medium,Beauty & Hygiene,Sirona,2,1438.2,2025-03-09,UPI
+ORD00369,CUST0014,Ready Mix - Bajji Bonda,Snacks & Branded Foods,Grb,5,195.0,2025-02-25,Credit Card
+ORD00370,CUST0046,Veggie Stix-Sour Cream&Onion+Multigrain Chips-Dahi Papdi Chaat(72g Get 10g Free),Snacks & Branded Foods,Too Yumm!,2,107.08,2025-03-03,UPI
+ORD00371,CUST0066,"Oat Flour - Whole Grain, Keto-Friendly",Gourmet & World Food,By Nature,4,720.0,2025-01-19,Cash on Delivery
+ORD00372,CUST0059,Sandal & Almond Milk Soap,Beauty & Hygiene,Santoor,1,139.5,2024-12-01,Debit Card
+ORD00373,CUST0085,Syrup - Vanille Flavored,Gourmet & World Food,Monin,1,395.0,2025-02-26,Cash on Delivery
+ORD00374,CUST0084,Vedic Immunity Kit,Beauty & Hygiene,Nutriorg,1,883.5,2025-01-12,Net Banking
+ORD00375,CUST0069,Organic - Jaggery/Bella Powder,"Foodgrains, Oil & Masala",Turn Organic ,1,90.0,2024-12-14,Cash on Delivery
+ORD00376,CUST0020,Signature Champion No Gas Body Deodorant For Men,Beauty & Hygiene,Axe,3,637.5,2024-12-03,Cash on Delivery
+ORD00377,CUST0088,Diamond Facial Kit - Mini,Beauty & Hygiene,Astaberry,3,637.5,2025-02-20,Credit Card
+ORD00378,CUST0023,Crackers - Sugar,Gourmet & World Food,Hup Seng,3,165.0,2024-12-26,Credit Card
+ORD00379,CUST0020,Golden Glow Facial Oil,Beauty & Hygiene,Aroma Treasures,3,899.1,2025-01-05,Cash on Delivery
+ORD00380,CUST0026,"Steel Storage/Lunch Container - No.31, Blue, Klip It","Kitchen, Garden & Pets",Joyo Steel,3,597.0,2025-03-09,Net Banking
+ORD00381,CUST0079,Masala - Fish,"Foodgrains, Oil & Masala",Badshah,1,41.0,2025-01-04,Credit Card
+ORD00382,CUST0069,UAE Dates/Kharjura - Seeded,"Foodgrains, Oil & Masala",Falcon,2,290.0,2025-01-05,UPI
+ORD00383,CUST0034,Disney Mickey Mouse Plastic Lunch Box/Tiffin Box - HMGSLB 22004-MK,"Kitchen, Garden & Pets",Hm International,1,219.0,2025-02-18,Cash on Delivery
+ORD00384,CUST0069,Ayurvedic Bhringaraj Hair Oil,Beauty & Hygiene,Lever Ayush,5,745.0,2024-12-14,Credit Card
+ORD00385,CUST0069,Cocktail Seed Mix Snacks - Gluten-Free & Roasted,Gourmet & World Food,Nutriplate,5,1000.0,2025-01-14,Cash on Delivery
+ORD00386,CUST0038,Utility Knife - Fantastiqe,"Kitchen, Garden & Pets",Anjali,3,237.0,2025-01-04,Credit Card
+ORD00387,CUST0002,"Basmati Rice - Mogra, Broken/Tukda","Foodgrains, Oil & Masala",bb Royal,3,1674.0,2025-02-12,Credit Card
+ORD00388,CUST0060,Easy 5 Minute Hair Colour - Natural Brown,Beauty & Hygiene,Godrej Expert,2,204.0,2024-12-10,Debit Card
+ORD00389,CUST0020,GMS - Glyceryl Mono Stearate,Snacks & Branded Foods,Eagle,5,165.0,2025-03-25,Debit Card
+ORD00390,CUST0081,Care Tea,Beverages,Tata Tea Gold,5,1110.0,2025-01-26,UPI
+ORD00391,CUST0099,EzeeSqueegee Wiper,Cleaning & Household,Gala,2,258.0,2024-12-04,Net Banking
+ORD00392,CUST0043,Flaxseed Hull Powder - Lignans,Gourmet & World Food,Health 1st,1,510.0,2024-12-14,Net Banking
+ORD00393,CUST0073,Whey Protein Bars - Variety,Gourmet & World Food,GoodDiet,1,599.0,2024-12-12,Net Banking
+ORD00394,CUST0033,Energizer Lithium Coin Battery CR 2032,"Kitchen, Garden & Pets",Energizer,4,180.0,2024-12-23,Cash on Delivery
+ORD00395,CUST0100,"Aqua Stainless Steel Bottle With Steel Cap - Metallic Pink Finish, PXP 1003 CK","Kitchen, Garden & Pets",BB Home,5,1145.0,2025-02-19,Net Banking
+ORD00396,CUST0067,Namkeen - Ribbon Pakoda,Snacks & Branded Foods,Townbus,5,50.0,2025-01-15,
+ORD00397,CUST0092,Coconut & Olive Oil Soap,Beauty & Hygiene,Rexona,3,84.0,2025-03-15,Credit Card
+ORD00398,CUST0079,Prosto-8 Tablet,Beauty & Hygiene,Meghdoot,5,750.0,2024-12-11,Net Banking
+ORD00399,CUST0039,Plain Paper Party Plates - 23 cm,Cleaning & Household,Origami,5,330.0,2024-12-17,UPI
+ORD00400,CUST0083,Skinguard Razor,Beauty & Hygiene,Gillette,4,1190.0,2024-12-13,Net Banking
+ORD00401,CUST0068,Baby Potato,Fruits & Vegetables,Fresho,3,60.0,2025-02-26,Net Banking
+ORD00402,CUST0055,Hair & Skin Vitamin Gummies With Biotin & Folic Acid,Beauty & Hygiene,By Nature,4,2200.0,2024-12-30,Credit Card
+ORD00403,CUST0074,Chicken Bratwurst,"Eggs, Meat & Fish",Fresho,2,478.0,2025-03-21,Cash on Delivery
+ORD00404,CUST0056,Thanjavur Sambar Ready Spice Blend,Gourmet & World Food,Cafe Junyali,3,675.0,2025-03-27,Debit Card
+ORD00405,CUST0041,3-In-1 Face Wash,Beauty & Hygiene,Organic Harvest,4,731.0,2024-12-24,Debit Card
+ORD00406,CUST0040,Turbo Bucket - Assorted Colour,Cleaning & Household,Nakoda,3,540.0,2025-01-28,Net Banking
+ORD00407,CUST0045,"Fruit N Nut, Dark Chocolate- 55% Rich In Cocoa",Snacks & Branded Foods,Amul,1,87.12,2024-12-09,Net Banking
+ORD00408,CUST0057,Cheesy Corn Triangles,Snacks & Branded Foods,ITC Master Chef,1,152.0,2025-01-14,Net Banking
+ORD00409,CUST0046,Frozen Eau De Toilette,Beauty & Hygiene,Police,4,7350.0,2025-03-19,Credit Card
+ORD00410,CUST0063,Coffee Joy - Italian Moment,Gourmet & World Food,COFFEE JOY,3,120.0,2025-03-09,Debit Card
+ORD00411,CUST0089,Cheesy Chipotle Sauce,Gourmet & World Food,Wingreens Farms,5,445.5,2025-02-12,Credit Card
+ORD00412,CUST0004,Organic - Sunflower Seeds/Suryakanti Bija,"Foodgrains, Oil & Masala",Conscious Food,5,345.0,2024-12-14,Net Banking
+ORD00413,CUST0068,"Knives & Peeler Combo - Cut, Peel & Slice, Value Pack","Kitchen, Garden & Pets",Crystal,1,105.0,2025-01-11,Cash on Delivery
+ORD00414,CUST0038,Olive Oil - Extra Virgin,Gourmet & World Food,Heracles,1,799.0,2025-03-12,Debit Card
+ORD00415,CUST0058,Baby Bubble Bath,Baby Care,Sebamed,5,1935.0,2025-01-29,Net Banking
+ORD00416,CUST0035,Superlite Advanced Oil - Sunflower,"Foodgrains, Oil & Masala",Sundrop,5,3570.0,2025-01-22,Credit Card
+ORD00417,CUST0021,Shave Gel - Sensitive Skin,Beauty & Hygiene,Gillette Venus,5,1125.0,2025-01-01,Cash on Delivery
+ORD00418,CUST0014,"360 Degrees Spill Proof Glass - Boy, 12m+",Baby Care,Chicco,2,1198.0,2025-01-31,Net Banking
+ORD00419,CUST0049,Cookies - Oats & Raisin,"Bakery, Cakes & Dairy",Lovely Bake Studio,1,40.5,2025-01-13,Credit Card
+ORD00420,CUST0070,Sambar Masala,"Foodgrains, Oil & Masala",bb Royal,5,90.0,2025-01-25,Net Banking
+ORD00421,CUST0005,Himalayan Mixed Fruit,Beverages,B Natural,5,200.0,2025-03-11,Debit Card
+ORD00422,CUST0021,Deodorant Body Spary - Bronze,Beauty & Hygiene,Wild Stone,5,1012.5,2025-02-27,Credit Card
+ORD00423,CUST0055,Volume &  Bounty Conditioner - Coconut Water & Mimosa Flower Aroma,Beauty & Hygiene,Love Beauty & Planet,2,1300.0,2025-02-23,UPI
+ORD00424,CUST0057,Cleaning Duster - Multi Purpose Micro Fiber With Handle,Cleaning & Household,Liao,5,1395.0,2025-03-18,Net Banking
+ORD00425,CUST0075,Pure Soapnut Liquid - Multi Purpose Cleaner Spray,Cleaning & Household,Bubblenut Wash,1,149.0,2025-02-14,Cash on Delivery
+ORD00426,CUST0033,Baked Beans in Tomato Sauce,Gourmet & World Food,Habit,4,720.0,2025-01-11,Cash on Delivery
+ORD00427,CUST0093,Office Key Chains,Cleaning & Household,B Vishal,1,58.9,2025-03-16,Net Banking
+ORD00428,CUST0034,Mix - Vermicelli Payasam,Snacks & Branded Foods,Mothers Recipe,2,140.0,2025-01-09,Net Banking
+ORD00429,CUST0004,Perfume - Be Delicious Edt (For Men),Beauty & Hygiene,Dkny,1,5550.0,2025-02-15,UPI
+ORD00430,CUST0053,Gold Massage Cream,Beauty & Hygiene,Natures Essence,5,2000.0,2025-03-09,Net Banking
+ORD00431,CUST0027,"Ball Pen - Blue, Ezee Click",Cleaning & Household,Flair,3,90.0,2025-02-02,UPI
+ORD00432,CUST0038,Bottle Gourd - Organically Grown,Fruits & Vegetables,Fresho,1,22.0,2024-12-28,Credit Card
+ORD00433,CUST0090,Pistachio - Roasted & Salted,Gourmet & World Food,Rostaa,5,720.0,2025-03-26,UPI
+ORD00434,CUST0073,Pure Instant Coffee Strong,Gourmet & World Food,Colombian Brew Coffee,2,798.0,2025-02-23,Credit Card
+ORD00435,CUST0080,Cold Pressed Groundnut Oil,Gourmet & World Food,RawNH,4,596.0,2025-02-07,Debit Card
+ORD00436,CUST0007,Tumbler Set - Multicolour,"Kitchen, Garden & Pets",Claycraft,4,2156.0,2025-02-17,Cash on Delivery
+ORD00437,CUST0093,Body Wash Gel - Waterlily & Oil Shower,Beauty & Hygiene,Nivea,4,400.0,2024-12-26,Credit Card
+ORD00438,CUST0025,Rasbhari Sonff,"Foodgrains, Oil & Masala",Marudhar,3,293.25,2025-01-08,Cash on Delivery
+ORD00439,CUST0005,Almond Oil - Cold Pressed,Gourmet & World Food,Health 1st,3,2475.0,2025-03-28,Net Banking
+ORD00440,CUST0058,"Khatta Murukku, Jantikalu",Snacks & Branded Foods,Tasties,3,147.0,2024-12-12,Cash on Delivery
+ORD00441,CUST0088,Organic - Biryani Masala,"Foodgrains, Oil & Masala",Organic Tattva,1,142.5,2025-02-17,Cash on Delivery
+ORD00442,CUST0031,"Gel Bathing Bar - Multi Variant (Buy 4 & Get 1 Free, 125 g each)",Beauty & Hygiene,Fiama Di Wills,4,1826.72,2025-03-19,Credit Card
+ORD00443,CUST0098,"Cerelac Baby Cereal With Milk, Multigrain & Fruits+Dal Veg (300G From 12 Months)",Baby Care,Nestle ,3,1584.0,2024-12-08,Debit Card
+ORD00444,CUST0013,"Origami Single Line Notebooks, 172 Pages",Cleaning & Household,Classmate,5,970.0,2024-12-07,UPI
+ORD00445,CUST0081,Namkeen - Chana Nuts,Snacks & Branded Foods,Haldirams ,5,160.0,2025-03-16,Debit Card
+ORD00446,CUST0083,"Menstrual Cup - Large Size, For Women Under 30 Years Of Age And With Low Cervix",Beauty & Hygiene,Meneza,1,1079.28,2025-03-21,Debit Card
+ORD00447,CUST0065,Lemon & Tea Tree Oil Soap,Beauty & Hygiene,Liril,1,360.0,2024-12-31,Net Banking
+ORD00448,CUST0064,"Pork - Prosciutto Cotto Ham, Sliced","Eggs, Meat & Fish",Fresho Signature,5,2376.0,2025-01-20,Debit Card
+ORD00449,CUST0087,D-Tan Scrub,Beauty & Hygiene,QRAA,4,960.0,2025-01-21,Net Banking
+ORD00450,CUST0098,Chewing Gum - Peppermint,Snacks & Branded Foods,Doublemint,4,480.0,2025-02-08,Credit Card
+ORD00451,CUST0087,Self Holding Rollers - Large,Beauty & Hygiene,Basicare,2,400.0,2025-01-30,
+ORD00452,CUST0093,Tomato - Hybrid,Fruits & Vegetables,Fresho,2,28.0,2025-02-10,Net Banking
+ORD00453,CUST0035,Cup Noodles - Veggi manchow,Snacks & Branded Foods,Nissin,3,120.0,2025-03-18,Net Banking
+ORD00454,CUST0025,Stainless Steel Flask,"Kitchen, Garden & Pets",DP,2,700.0,2025-01-06,Credit Card
+ORD00455,CUST0067,Masala Poori Atta,Gourmet & World Food,Graminway,2,198.0,2024-12-02,UPI
+ORD00456,CUST0040,Mini Bhakharwadi,Snacks & Branded Foods,Garden,1,50.0,2024-12-19,Net Banking
+ORD00457,CUST0045,Dried Blueberry,Gourmet & World Food,Puramate,4,720.0,2024-12-18,UPI
+ORD00458,CUST0047,"Multipurpose Jar With Wooden Lid - Acrylic, L Bb-1186","Kitchen, Garden & Pets",DP,2,818.0,2025-02-21,
+ORD00459,CUST0046,"Aam Papad, Fruit Bar",Snacks & Branded Foods,Paper Boat,4,780.0,2025-03-25,Cash on Delivery
+ORD00460,CUST0023,"Decorative Scented Candles - Pink, BB-1259-2",Cleaning & Household,DP,4,1396.0,2025-02-18,Credit Card
+ORD00461,CUST0003,Wine Bleach,Beauty & Hygiene,Astaberry,4,285.0,2025-02-04,Net Banking
+ORD00462,CUST0012,Kesar Ubtan Face Pack - Removes Excessive Oil & Sebum,Beauty & Hygiene,Jiva Ayurveda,5,475.0,2025-03-15,Net Banking
+ORD00463,CUST0035,Istanbul Juice/water Long Glass Tumbler,"Kitchen, Garden & Pets",Pasabahce,4,1796.0,2025-01-15,Credit Card
+ORD00464,CUST0085,"Total Face Cleanup Women Face Wash, Face Scrub & Face Pack",Beauty & Hygiene,Nivea,2,230.4,2025-01-24,Cash on Delivery
+ORD00465,CUST0040,Cosmos Premium Plastic Soap Dish - Assorted Colour,Cleaning & Household,Swastik,1,78.0,2025-02-12,Net Banking
+ORD00466,CUST0058,Nutri Lunch Insulated Tiffin - Pink,"Kitchen, Garden & Pets",Nayasa,2,598.0,2025-03-02,Cash on Delivery
+ORD00467,CUST0080,Dry Pants Diapers - Large,Baby Care,Huggies,3,546.27,2025-01-22,Cash on Delivery
+ORD00468,CUST0021,70% Cocoa Dark,Gourmet & World Food,Lindt,5,2250.0,2025-01-16,UPI
+ORD00469,CUST0056,Multipurpose 3 Tier Rack,"Kitchen, Garden & Pets",Saura,1,345.0,2025-02-11,Net Banking
+ORD00470,CUST0051,Frozen Prawns - Large,"Eggs, Meat & Fish",Fresho,3,687.0,2024-12-15,Cash on Delivery
+ORD00471,CUST0093,Marino Air-Tight Glass Storage Jar With Green Lid,"Kitchen, Garden & Pets",BB Home,4,1116.0,2025-02-27,UPI
+ORD00472,CUST0063,Opalware Ivory Dinner Plate Set - Autumn Shadow,"Kitchen, Garden & Pets",Laopala Diva,2,1680.0,2025-03-04,Cash on Delivery
+ORD00473,CUST0077,BB Popular Channa Dal 1 kg + Urad Dal - Split 1 kg+BB Royal Rice - Dosa 2 kg,"Foodgrains, Oil & Masala",bb Combo,3,903.0,2025-01-29,Cash on Delivery
+ORD00474,CUST0100,Daily Styling Aqua Hair Gel - Aloe Vera,Beauty & Hygiene,Set Wet,1,60.0,2025-02-05,Cash on Delivery
+ORD00475,CUST0090,French Fries,Snacks & Branded Foods,Yummiez,1,95.0,2025-01-01,Net Banking
+ORD00476,CUST0073,Anti-Dandruff Lotion,Beauty & Hygiene,Kaya Clinic,1,150.0,2025-02-26,Cash on Delivery
+ORD00477,CUST0098,Perfume - Code Platinum,Beauty & Hygiene,Wild Stone,5,875.0,2025-01-09,Cash on Delivery
+ORD00478,CUST0029,Genius Mosquito Repellent - 80% Stronger With Calming Aroma,Cleaning & Household,Maxo,1,113.0,2025-03-26,Debit Card
+ORD00479,CUST0043,M2 Perfume Spray - for Men,Beauty & Hygiene,Engage,5,682.5,2025-03-10,UPI
+ORD00480,CUST0056,Vegetarian Oyster Sauce,Gourmet & World Food,Tai Hua,4,1476.0,2025-01-28,Cash on Delivery
+ORD00481,CUST0074,Granola - Mango Coconut,Snacks & Branded Foods,Fit & Flex,4,980.0,2025-02-12,Debit Card
+ORD00482,CUST0083,Organic Watermellon Seed,"Foodgrains, Oil & Masala",MeraKisan,4,332.0,2025-01-15,Debit Card
+ORD00483,CUST0038,"Organic Energy Paak - Sugar Free, Gluten Free",Snacks & Branded Foods,D-Alive,3,1797.0,2024-12-22,UPI
+ORD00484,CUST0029,Wellness Tea Assortment Tea Bags Box,Gourmet & World Food,TGL Co.,5,996.0,2025-03-06,Debit Card
+ORD00485,CUST0037,We Are Yellove - Fragrance Body Spray,Beauty & Hygiene,CHENNAI SUPER KINGS,5,1068.75,2025-01-03,UPI
+ORD00486,CUST0018,Basil Seed Drink - Mango,Gourmet & World Food,Fruitoria,4,336.6,2025-02-13,Credit Card
+ORD00487,CUST0032,Sweet Revival Chocolate Peel-Off Mask,Beauty & Hygiene,Aroma Treasures,5,3577.5,2024-12-07,Debit Card
+ORD00488,CUST0039,Conditioner With Argan Oil,Beauty & Hygiene,DELON,5,2745.0,2024-12-04,Debit Card
+ORD00489,CUST0025,"Hard Anodised Plus Chapati-Paratha Tawa, 265 mm (35036)","Kitchen, Garden & Pets",Prestige,4,4000.0,2024-12-11,Credit Card
+ORD00490,CUST0093,Chocochip Cookies,Snacks & Branded Foods,Tasties,5,476.7,2024-12-10,Debit Card
+ORD00491,CUST0098,"Vitamin C 10% Brightening Under Eye Serum With Vitamin E, B3, Hyaluronic Acid, Caffeine & Green Tea",Beauty & Hygiene,StBotanica,3,2397.0,2024-12-17,Cash on Delivery
+ORD00492,CUST0061,"Hot Water Bottle, Double Side Ribbed Hot Water Bag For Pain Relief with 2 Lt Water Capacity - Assorted Colours",Beauty & Hygiene,Prozo Plus,3,807.0,2025-01-05,Debit Card
+ORD00493,CUST0064,Chef Thai Green Curry,Snacks & Branded Foods,Veeba,1,119.2,2025-03-05,UPI
+ORD00494,CUST0027,Juice/Milk Mugs,"Kitchen, Garden & Pets",Yera,5,1145.0,2024-12-23,Cash on Delivery
+ORD00495,CUST0064,Flavored Center Chocolate - Pomegranate,Snacks & Branded Foods,Brookside,2,307.24,2025-02-23,Net Banking
+ORD00496,CUST0040,Ragi Loaf,"Bakery, Cakes & Dairy",The Baker's Dozen,3,147.0,2025-03-14,Credit Card
+ORD00497,CUST0097,"Tablets - Neem, For Blood Purification, 250 mg",Beauty & Hygiene,Himalaya Wellness,3,359.04,2025-03-11,Credit Card
+ORD00498,CUST0010,"Steel Storage/Lunch Container - No.42, Grey, Klip It","Kitchen, Garden & Pets",Joyo Steel,4,1116.0,2024-12-24,Cash on Delivery
+ORD00499,CUST0096,"Glass Bottle Ombre Matt Finish - Grey, BB1321","Kitchen, Garden & Pets",DP,1,249.0,2025-01-13,UPI
+ORD00500,CUST0053,Pet Sobo Container Set - Silver,"Kitchen, Garden & Pets",Steelo,2,418.0,2025-02-15,Credit Card
+ORD00501,CUST0098,Rajasthani Lehsun Chutney,Gourmet & World Food,Nutty Yogi,4,596.0,2025-03-07,Net Banking
+ORD00502,CUST0083,Apple Fruit Juice,Beverages,Paper Boat,4,320.0,2024-12-31,Net Banking
+ORD00503,CUST0099,Ready To Eat - Lemon Rice,Snacks & Branded Foods,MTR,2,198.0,2024-12-27,Cash on Delivery
+ORD00504,CUST0025,Moroccan Argan Oil Ultra Nourishing Body Lotion,Beauty & Hygiene,StBotanica,3,1347.0,2024-12-07,Debit Card
+ORD00505,CUST0099,Rusk - Fruit,"Bakery, Cakes & Dairy",Milk Ma,1,28.0,2024-12-07,Credit Card
+ORD00506,CUST0045,Special Asafetida Paste/Soft Hing,Gourmet & World Food,GPC,4,1998.0,2025-01-21,Net Banking
+ORD00507,CUST0078,Premium Round & Flat Storage Container With Lid - Green,"Kitchen, Garden & Pets",Mastercook,3,297.0,2025-01-30,Cash on Delivery
+ORD00508,CUST0088,"Glass Bottle Ombre Matt Finish -  Green, BB1321","Kitchen, Garden & Pets",DP,2,498.0,2025-01-18,Net Banking
+ORD00509,CUST0001,Soft Bristles Deep Clean Toothbrush With Hygiene Cap - Colour May Vary,Beauty & Hygiene,Aquawhite,4,240.0,2025-01-03,Credit Card
+ORD00510,CUST0017,Hair Regrowth Tonic,Beauty & Hygiene,Mamaearth,5,2495.0,2025-03-22,Net Banking
+ORD00511,CUST0027,Quinoa - White,Gourmet & World Food,NUTRASHIL,1,225.0,2025-01-06,Net Banking
+ORD00512,CUST0008,Creamy Caramel Instant Coffee,Gourmet & World Food,Colombian Brew Coffee,4,760.0,2025-02-25,Debit Card
+ORD00513,CUST0072,"Original Masala Chai Tea - Ginger, Cinnamon & Cardamom, Long Leaf, Pyramid Bags",Gourmet & World Food,Sancha,5,1750.0,2025-02-26,UPI
+ORD00514,CUST0098,Chia Mango Mint Jam,Gourmet & World Food,Prasukh,1,126.0,2025-03-28,Cash on Delivery
+ORD00515,CUST0065,"Twist Gel - Car Air Freshener, Sunny Citrus Blast",Cleaning & Household,Aer,3,1023.3,2025-03-19,Net Banking
+ORD00516,CUST0012,Sugar Less Sweets - Assorted,Snacks & Branded Foods,Dezire,5,1245.0,2025-03-28,Debit Card
+ORD00517,CUST0022,"Variety Energy Bars-ChocoPeanut,CoconutAlmond,GojiberryBalckcurrantCashew,AlmondRaisin",Snacks & Branded Foods,GoodDiet,3,481.56,2025-01-04,Debit Card
+ORD00518,CUST0043,Light Soya Sauce,Gourmet & World Food,Blue Elephant,1,202.5,2025-01-02,Cash on Delivery
+ORD00519,CUST0006,Jaggery/Bella - Kolhapuri,"Foodgrains, Oil & Masala",bb Royal,4,300.0,2025-01-29,Credit Card
+ORD00520,CUST0003,"Body Lotion, Whitening Cool Sensation, SPF 15 & Refreshing Menthol",Beauty & Hygiene,Nivea,5,1850.0,2025-03-09,Credit Card
+ORD00521,CUST0053,Vitamin E Body Cream,Beauty & Hygiene,INATUR ,5,2450.0,2025-01-13,Credit Card
+ORD00522,CUST0092,Mini Soya Chunks,"Foodgrains, Oil & Masala",bb Royal,3,111.0,2025-02-09,UPI
+ORD00523,CUST0084,Organic - Onion Powder  Dehydrated,"Foodgrains, Oil & Masala",bb Royal,1,30.0,2025-03-17,UPI
+ORD00524,CUST0011,Dazzle Opalware Dinner Set - Tropical Lagoon,"Kitchen, Garden & Pets",Cello,1,1229.0,2025-01-22,UPI
+ORD00525,CUST0015,Lemon Soap,Beauty & Hygiene,Khadi Natural,5,350.0,2024-12-14,Net Banking
+ORD00526,CUST0081,Maxriter Ballpen Set - Black,Cleaning & Household,BIC Cello,3,294.0,2024-12-29,Debit Card
+ORD00527,CUST0088,Cocoa Powder,Gourmet & World Food,Puramate,3,175.5,2024-12-25,UPI
+ORD00528,CUST0064,Cookies - Australian Anzac,"Bakery, Cakes & Dairy",Lovely Bake Studio,1,117.0,2025-02-18,UPI
+ORD00529,CUST0077,Chocolate Coated Almonds,Gourmet & World Food,Sapphire,1,375.0,2025-03-31,Cash on Delivery
+ORD00530,CUST0004,Instant Meals Suji Halwa With Jaggery - Taste That Takes You Home,Snacks & Branded Foods,Aashirvaad,2,127.5,2025-02-15,UPI
+ORD00531,CUST0048,Masala - Achari,"Foodgrains, Oil & Masala",Hakim,1,60.0,2024-12-12,Cash on Delivery
+ORD00532,CUST0081,Lime Fresh 500 ml + Laundry San- Spring Blossom 480 ml,Cleaning & Household,Dettol,2,606.6,2025-01-18,Cash on Delivery
+ORD00533,CUST0001,Sterilised Double Toned Flavored Milk - Strawberry,"Bakery, Cakes & Dairy",THIRUMALA,2,45.0,2025-03-25,UPI
+ORD00534,CUST0032,Raisins/Ona Drakshi - Indian,"Foodgrains, Oil & Masala",bb Popular,2,380.0,2025-01-02,Debit Card
+ORD00535,CUST0088,Chicken-Crispy Fries 280gm+ Crunchy Nuggets 450gm+Chicken Patty-Desi Style 330gm,Snacks & Branded Foods,ITC Master Chef,4,2166.04,2025-02-23,UPI
+ORD00536,CUST0029,Rogan Josh Sauce,Snacks & Branded Foods,Fazlani Foods,4,396.0,2025-03-29,Debit Card
+ORD00537,CUST0019,Panty Liners - Intima Large,Beauty & Hygiene,Bella,4,852.0,2025-02-27,Debit Card
+ORD00538,CUST0050,Food Keeper Plastic Container - Assorted Colour,"Kitchen, Garden & Pets",JOYO,3,267.0,2024-12-21,UPI
+ORD00539,CUST0016,"Glass Water Bottle With Round Base - Yellow, B1367","Kitchen, Garden & Pets",BB Home,3,627.0,2025-03-10,UPI
+ORD00540,CUST0091,"Pradarashamaka Vati - Gynce Care, 500 mg",Beauty & Hygiene,Sri Sri Tattva,4,580.0,2025-01-19,Debit Card
+ORD00541,CUST0019,Tap Cleaner,Cleaning & Household,ATOMIC,1,359.1,2025-01-03,Debit Card
+ORD00542,CUST0064,Divine Petals Toner - Mist,Beauty & Hygiene,Lotus Organics+,2,671.5,2025-01-26,UPI
+ORD00543,CUST0071,"Steel Dinner Plate - No. 14, Khumcha","Kitchen, Garden & Pets",BB Home,4,1596.0,2025-03-29,Credit Card
+ORD00544,CUST0075,2 Pin Twist 5 Meter Extension Box 1084,"Kitchen, Garden & Pets",Milltec,5,1745.0,2025-01-20,Credit Card
+ORD00545,CUST0053,Body Wash - Peach Berry Essence,Beauty & Hygiene,Skin Cottage ,4,1796.0,2024-12-14,Credit Card
+ORD00546,CUST0100,"Jasmine Pure Glycerin Soap - Cold Processed, 100% Natural & Organic",Beauty & Hygiene,Soulflower,5,1062.5,2025-03-09,Net Banking
+ORD00547,CUST0027,Baby Nourishing Oil For Baby Massage,Beauty & Hygiene,Mom & World,2,1168.0,2025-02-17,UPI
+ORD00548,CUST0052,Strawberry Candy,Snacks & Branded Foods,SDA CANDYS,4,160.0,2025-03-02,Debit Card
+ORD00549,CUST0007,Sauce - Pasta & Pizza,Snacks & Branded Foods,Veeba,1,67.5,2024-12-05,UPI
+ORD00550,CUST0071,Chicken Masala,"Foodgrains, Oil & Masala",bb Royal,1,21.0,2025-02-12,Debit Card
+ORD00551,CUST0005,Shea Butter Body Scrub,Beauty & Hygiene,Biocare ,4,1900.0,2024-12-03,Net Banking
+ORD00552,CUST0016,Dark Chocolate Bar,Gourmet & World Food,Rage,2,598.0,2025-02-22,UPI
+ORD00553,CUST0075,Face Mask - Disposable,Cleaning & Household,Soft Touch,1,33.25,2025-02-24,Net Banking
+ORD00554,CUST0069,Motomax 2K Rubbing Compound,Cleaning & Household,Pidilite,3,327.0,2024-12-20,Debit Card
+ORD00555,CUST0069,Farfalle Pasta,Gourmet & World Food,Colavita,4,1000.0,2025-02-12,UPI
+ORD00556,CUST0041,Natural Glow Orange Peel-off Mask,Beauty & Hygiene,Everyuth Naturals,5,480.0,2025-03-01,Net Banking
+ORD00557,CUST0036,Diet Snack - Chilli Lime,Gourmet & World Food,GoodDiet,4,316.0,2025-01-25,Net Banking
+ORD00558,CUST0086,Masala - Pani Puri,"Foodgrains, Oil & Masala",Aachi,1,27.0,2025-02-08,Credit Card
+ORD00559,CUST0070,Masala Chai Tea Bags,Gourmet & World Food,TGL Co.,1,269.55,2025-01-19,Net Banking
+ORD00560,CUST0081,Hand Sanitiz+,Beauty & Hygiene,Jungle Magic,1,50.0,2025-02-11,Cash on Delivery
+ORD00561,CUST0015,Apricot Body Wash & Scrub,Beauty & Hygiene,Meghdoot,3,210.0,2025-01-12,Debit Card
+ORD00562,CUST0030,Nilgiri Green Tea  - Seiki Peppermint,Gourmet & World Food,Teamonk,4,1260.0,2024-12-08,UPI
+ORD00563,CUST0051,Mace-Moringa Rejuvenating Body Butter,Beauty & Hygiene,Just Herbs,3,3585.0,2025-02-07,Debit Card
+ORD00564,CUST0044,Morning Dew Perfumed Talc 250 g + English Lavender Perfumed Talc 250 g,Beauty & Hygiene,Yardley London,1,329.8,2025-03-18,Net Banking
+ORD00565,CUST0060,Licoricewhite Skin Whitening Cleanser,Beauty & Hygiene,Lotus Herbals,3,242.25,2025-02-21,Credit Card
+ORD00566,CUST0011,Baby Dry Medium (6-11 kg) - 5 Diapers,Baby Care,Pampers ,2,136.0,2025-02-09,UPI
+ORD00567,CUST0029,Hydrafresh Anti-Ox Spa Water,Beauty & Hygiene,Loreal Paris,4,2600.0,2025-02-23,Credit Card
+ORD00568,CUST0015,"Greek Yogurt - Natural, Low Fat",Gourmet & World Food,Epigamia ,3,897.0,2025-02-28,Net Banking
+ORD00569,CUST0053,Borosilicate Glass Rectangular Food Container With Green Lid,"Kitchen, Garden & Pets",BB Home,1,209.0,2025-02-19,Debit Card
+ORD00570,CUST0085,Moroccan Argan Oil,Beauty & Hygiene,Hairmac,4,3276.0,2024-12-11,Net Banking
+ORD00571,CUST0058,"Aloe Vera Lotion - Moisturizing Body Lotion, For All Skin Types",Beauty & Hygiene,Jiva Ayurveda,2,180.0,2024-12-18,UPI
+ORD00572,CUST0084,Organic - Sugar/Sakkare Brown,"Foodgrains, Oil & Masala",Turn Organic ,2,284.0,2024-12-04,Cash on Delivery
+ORD00573,CUST0080,"3mm Hard Aluminium Anodized Sauce Pan - With Induction Base, 18 cm, Black","Kitchen, Garden & Pets",HAZEL,2,1898.0,2025-02-01,Net Banking
+ORD00574,CUST0033,"Handler - Oval Shape Pot With Handle Planter, Blue, Large","Kitchen, Garden & Pets",Klassic,1,449.0,2025-03-12,Cash on Delivery
+ORD00575,CUST0097,Dressing - Creamy Caesar,Gourmet & World Food,American Garden ,3,810.0,2025-02-02,Cash on Delivery
+ORD00576,CUST0061,Bread - Pav,"Bakery, Cakes & Dairy",English Oven,4,120.0,2024-12-03,UPI
+ORD00577,CUST0061,High Aroma Cow Ghee/Tuppa,"Foodgrains, Oil & Masala",Amul,3,1620.0,2024-12-08,Debit Card
+ORD00578,CUST0009,Breakfast Mix - Kodo Millet Idli,Snacks & Branded Foods,GoodDiet,1,59.0,2025-01-21,UPI
+ORD00579,CUST0094,Noori Mukkhalat Middle Eastern Handmade Soap,Beauty & Hygiene,Nyassa,2,900.0,2025-03-14,Cash on Delivery
+ORD00580,CUST0083,Organic Kabuli Chana/Kabuli Kadale,"Foodgrains, Oil & Masala",bb Royal,4,300.0,2025-03-31,Cash on Delivery
+ORD00581,CUST0010,Aloe Vera Serum Toner,Beauty & Hygiene,Iba,2,558.6,2025-03-05,Cash on Delivery
+ORD00582,CUST0070,Biscuits - Sugar Crakers,Gourmet & World Food,Samudra,2,298.0,2025-03-29,UPI
+ORD00583,CUST0047,Mushrooms - Oyster,Fruits & Vegetables,Fresho,1,55.0,2025-03-05,Credit Card
+ORD00584,CUST0074,Milk Shake - Chocolate,"Bakery, Cakes & Dairy",mother dairy,4,291.6,2025-02-22,UPI
+ORD00585,CUST0097,Instant Popcorn - Tandoori Tadka,Snacks & Branded Foods,ACT II,4,118.8,2025-03-27,Cash on Delivery
+ORD00586,CUST0059,"Bounce Hair Recovery Complex, Biotin & Selenium - Green Apple Flavour",Beauty & Hygiene,Chicnutrix,1,597.6,2025-01-01,Credit Card
+ORD00587,CUST0064,Essence - Rose,Snacks & Branded Foods,Viola,1,50.0,2024-12-23,UPI
+ORD00588,CUST0015,Palakkad Red Matta Boiled Rice - Unda,"Foodgrains, Oil & Masala",bb Royal,3,726.0,2025-03-16,UPI
+ORD00589,CUST0008,Pure Talcum Powder For Men & Women - For Gentle Fragrance & Reliable Protection Against Body Odour,Beauty & Hygiene,Nivea,4,896.4,2025-02-17,Credit Card
+ORD00590,CUST0091,Glass Whisky/Juice Tumbler Sparkle,"Kitchen, Garden & Pets",Iveo ,5,2795.0,2024-12-09,UPI
+ORD00591,CUST0042,Basmati Rice/Basmati Akki - Mother's Choice,"Foodgrains, Oil & Masala",Bemisal,1,176.0,2025-02-02,Cash on Delivery
+ORD00592,CUST0077,Sandal Soap Tripack,Beauty & Hygiene,Yardley London,5,801.0,2024-12-29,
+ORD00593,CUST0099,Sandalwood Ultra Facial Sheet Mask,Beauty & Hygiene,Mirabelle,2,167.7,2025-01-24,Debit Card
+ORD00594,CUST0026,Moringa Powder,Beauty & Hygiene,ORGANIC INDIA,4,900.0,2025-01-11,UPI
+ORD00595,CUST0037,Instant Upma,Snacks & Branded Foods,AMAJAIN,5,250.0,2025-02-08,Credit Card
+ORD00596,CUST0065,Bee Easy - Wild Lavender Blossom Honey,Gourmet & World Food,Langnese,3,1620.0,2025-03-18,Credit Card
+ORD00597,CUST0011,Bio Rejuvenating Vetiver,Beauty & Hygiene,BIOTIQUE,1,524.25,2025-02-14,Credit Card
+ORD00598,CUST0001,Quista Pro Advanced Whey Protein Formula fortified with Power Herbs - Chocolate,Beauty & Hygiene,Himalaya,3,13500.0,2024-12-09,UPI
+ORD00599,CUST0032,Hand Towel - Assorted Colour,Cleaning & Household,Rise N Shine,3,297.0,2024-12-19,Net Banking
+ORD00600,CUST0052,"Deodorant Roll On - Fresh Power, 48h Long Lasting Freshness With Fresh Musk Scent",Beauty & Hygiene,Nivea Men,2,318.4,2025-02-28,Debit Card
+ORD00601,CUST0048,"Idly Dosa Batter, 1 Kg + Whole Wheat Parota, 350 g",Snacks & Branded Foods,iD Fresho,5,594.45,2024-12-22,Net Banking
+ORD00602,CUST0041,Eau De Cologne Concentree Vaporisateur Natural Spray,Beauty & Hygiene,Maxi,2,4750.0,2025-03-29,Cash on Delivery
+ORD00603,CUST0029,"Safewash Top Load Matic Liquid Detergent, 1 kg + Maxkleen Floor Cleaner 975 ml",Cleaning & Household,bb Combo,1,318.8,2024-12-18,UPI
+ORD00604,CUST0002,100% Green Tea,Beverages,Sprig Tea,5,310.5,2025-01-18,Credit Card
+ORD00605,CUST0042,Hair Gel Cool Hold,Beauty & Hygiene,Vi-john,1,22.5,2025-03-23,Net Banking
+ORD00606,CUST0004,Mini Party Wafers - Hazelnut Cream,Gourmet & World Food,Gastone Lago,1,199.0,2024-12-01,UPI
+ORD00607,CUST0016,Fruit Juice - Lychee With Nata De Coco,Gourmet & World Food,Kokozo,2,110.0,2025-03-29,UPI
+ORD00608,CUST0081,Sidpiles Tablets -  For Relief From Piles,Beauty & Hygiene,Baidyanath,5,1050.0,2025-03-24,Debit Card
+ORD00609,CUST0023,Hello Panda Biscuits - Creamy Strawberry,Gourmet & World Food,Meiji ,4,320.0,2025-02-27,Net Banking
+ORD00610,CUST0007,Kool Milk Shake - Badam,"Bakery, Cakes & Dairy",Amul,2,262.0,2024-12-27,Credit Card
+ORD00611,CUST0003,Beer Shampoo - Damage Free,Beauty & Hygiene,Park avenue,3,507.0,2025-02-05,Net Banking
+ORD00612,CUST0074,Foul Mudammas - Grade A,Gourmet & World Food,American Garden ,4,500.0,2024-12-31,Credit Card
+ORD00613,CUST0071,Gluten Free Instant Spaghetti - Quinoa,Gourmet & World Food,NutraHi,5,450.0,2025-02-27,UPI
+ORD00614,CUST0042,Ghee/Tuppa - Heeng Jeera Mirchi Tadka,"Foodgrains, Oil & Masala",Nutty Yogi,5,1725.0,2024-12-24,Net Banking
+ORD00615,CUST0096,Organic Sprouted Ragi Powder/Ragi Hittu,"Foodgrains, Oil & Masala",Slurrp Farm,5,1125.0,2024-12-12,Debit Card
+ORD00616,CUST0086,Rolled Oats,Gourmet & World Food,Nutriorg,3,527.25,2025-01-23,UPI
+ORD00617,CUST0066,Shilajit - For Men,Beauty & Hygiene,Upakarma,5,4745.0,2024-12-31,Credit Card
+ORD00618,CUST0052,Organic Tulsi Ginger Tea,Beverages,24 Mantra,1,95.0,2025-02-06,UPI
+ORD00619,CUST0003,Baby Silicone Teethers Star,Baby Care,Chicco,5,2495.0,2025-01-16,Cash on Delivery
+ORD00620,CUST0068,Lemon Green Tea - Unbleached & Staple-Free Teabags,Gourmet & World Food,Karma Kettle,5,2000.0,2024-12-29,Net Banking
+ORD00621,CUST0006,Soap Bar - Total 10,Beauty & Hygiene,Lifebuoy,2,212.0,2025-01-05,UPI
+ORD00622,CUST0085,Extra Virgin Coconut Oil - Cold Pressed Centrifuge,"Foodgrains, Oil & Masala",DIVING DUCK,2,680.0,2024-12-15,Credit Card
+ORD00623,CUST0019,Neem Oil,Beauty & Hygiene,Gold Deer,4,440.0,2025-02-02,Credit Card
+ORD00624,CUST0062,Soya Milk - Chocolate,"Bakery, Cakes & Dairy",Sofit ,2,341.04,2025-02-24,UPI
+ORD00625,CUST0049,Frozen Instant Indian Curry Mix - Bhuna Masala,Snacks & Branded Foods,Mom's InstaCook,1,99999.0,2025-02-21,Debit Card
+ORD00626,CUST0022,Sultana Eau De Parfum,Beauty & Hygiene,Neesh,3,1026.0,2024-12-27,Net Banking
+ORD00627,CUST0033,"Plastic Container - Printed, Crystal, 14803-P","Kitchen, Garden & Pets",Ratan,3,1737.0,2025-01-12,Cash on Delivery
+ORD00628,CUST0052,Mahabhringraj Tel - Hairfall Redution & Dandruff Relief,Beauty & Hygiene,Baidyanath,4,356.0,2024-12-06,UPI
+ORD00629,CUST0022,Baby Milk Cream,Baby Care,Johnson's baby,1,155.0,2025-03-29,Cash on Delivery
+ORD00630,CUST0092,Chilli Powder/Menasina Pudi,"Foodgrains, Oil & Masala",Iyengar Spices & Food Specialists ,2,120.0,2024-12-21,UPI
+ORD00631,CUST0064,"Morning Motivation Instant Coffee Powder Make Cold Coffee, Hot Coffee & Cappuccino",Gourmet & World Food,TGL Co.,4,1617.0,2025-02-04,UPI
+ORD00632,CUST0079,Gulab Jamun,Snacks & Branded Foods,MTR,1,120.0,2025-03-25,Credit Card
+ORD00633,CUST0089,Harpic Disinfectant Toilet Cleaner 1L + Vanish Fabric Stain Remover Liquid - 800ml,Cleaning & Household,bb Combo,4,1372.0,2025-02-14,Cash on Delivery
+ORD00634,CUST0072,Glass Tango Jug With Lid,"Kitchen, Garden & Pets",Iveo ,3,897.0,2025-01-23,Credit Card
+ORD00635,CUST0002,No Dust Broom XL,Cleaning & Household,Gala,3,477.0,2024-12-30,UPI
+ORD00636,CUST0053,Classic Plastic Dustbin / Garbage Bin - Brown,Cleaning & Household,Cello,3,1437.0,2024-12-30,UPI
+ORD00637,CUST0032,"Super Moist Triple Chocolate Fudge Cake Mix, Imported",Gourmet & World Food,Betty Crocker,2,890.0,2025-03-05,Net Banking
+ORD00638,CUST0031,Apple Cider Vinegar With Garlic & Honey,Gourmet & World Food,Dr. Patkars,2,1350.0,2025-01-18,Credit Card
+ORD00639,CUST0062,Nescafe - Gold Blend,Gourmet & World Food,Nescafe ,1,550.0,2025-01-30,Cash on Delivery
+ORD00640,CUST0025,Confeito Party Sprinkles Mix,Gourmet & World Food,Wow Confetti,4,1368.0,2024-12-07,Net Banking
+ORD00641,CUST0006,Perfume - Passion Edt (For Men),Beauty & Hygiene,Police,2,3900.0,2024-12-28,Cash on Delivery
+ORD00642,CUST0007,Mach3 Sensitive - Manual Shaving Razor Blades Cartridge,Beauty & Hygiene,Gillette,4,1411.2,2024-12-23,Net Banking
+ORD00643,CUST0047,Glass Serving Bowl - Jelo,"Kitchen, Garden & Pets",Treo,3,585.0,2024-12-18,Net Banking
+ORD00644,CUST0027,Nutrition & Health Drink Royale - Chocolate,Beverages,Complan,2,598.0,2025-02-19,Debit Card
+ORD00645,CUST0022,Namkeen - Corn Mixture,Snacks & Branded Foods,Sanjay ,3,195.0,2024-12-26,Debit Card
+ORD00646,CUST0014,Chyawanprash Special - All Round Immunity & Protection,Beauty & Hygiene,Baidyanath,2,690.0,2024-12-05,Cash on Delivery
+ORD00647,CUST0099,Tea Tree Oil,Beauty & Hygiene,Nectar Valley,1,450.0,2025-01-05,Credit Card
+ORD00648,CUST0037,Multi-Surface Cleaner and Deodorizer - Sparkling Wave,Cleaning & Household,Pine Sol,1,300.0,2025-03-20,Net Banking
+ORD00649,CUST0026,Atta Noodles - Masala,Snacks & Branded Foods,Top Ramen ,4,320.0,2025-01-23,Credit Card
+ORD00650,CUST0045,Edam Block Cheese - Sliced,Gourmet & World Food,Fresho Signature,3,861.3,2024-12-29,Debit Card
+ORD00651,CUST0018,Plastic Pouch Sealing Clips - Small,Cleaning & Household,Unik Home,5,325.0,2024-12-21,Cash on Delivery
+ORD00652,CUST0083,Namak,"Foodgrains, Oil & Masala",Patanjali,2,30.0,2025-02-12,Cash on Delivery
+ORD00653,CUST0054,Kumaryasava,Beauty & Hygiene,Dabur,2,360.0,2024-12-12,Net Banking
+ORD00654,CUST0067,"Loofah/Sponge Scrubber/Body Bath  - Hangable, Dual Side, Brown, BH-063 BRN",Beauty & Hygiene,BB Home,5,695.0,2025-02-01,Credit Card
+ORD00655,CUST0056,"Fruit Juice - Delight, Litchi",Beverages,Tropicana,5,388.1,2025-01-30,Net Banking
+ORD00656,CUST0074,Fragrant Soap - Cool Blue,Beauty & Hygiene,Park avenue,3,405.0,2024-12-02,Net Banking
+ORD00657,CUST0045,Paw Patrol Flashhh Toothbrush Set With Rinsing Cup - Red,Beauty & Hygiene,Aquawhite,2,1000.0,2025-01-01,Debit Card
+ORD00658,CUST0073,Chilli - Guntur with Stem,"Foodgrains, Oil & Masala",bb Royal,4,690.0,2025-02-13,Credit Card
+ORD00659,CUST0063,"Eternal Garden - Travel Edition For Women, Rose & Jasmine",Beauty & Hygiene,All Good Scents,5,7182.5,2024-12-20,Cash on Delivery
+ORD00660,CUST0078,"Wafer Rolls - Chocolate, Munchini",Gourmet & World Food,Munchys,1,95.0,2025-01-23,UPI
+ORD00661,CUST0060,Insect Repellent-Lizard,Cleaning & Household,BB Home Herbal,1,165.0,2025-01-30,Cash on Delivery
+ORD00662,CUST0100,Black Edition Eau De Parfum For Men,Beauty & Hygiene,Bentley,1,5940.0,2025-01-24,Cash on Delivery
+ORD00663,CUST0038,Moisturzing Cream - Intense,Beauty & Hygiene,Dr.Batra'S,4,700.0,2025-01-31,UPI
+ORD00664,CUST0025,"Isomil Soy Infant Milk Substitute - Lactose Free, Upto 24 months",Baby Care,Similac,4,2120.0,2025-02-02,Credit Card
+ORD00665,CUST0085,Secret Manchurian Instant Noodles,Snacks & Branded Foods,Chings,1,52.2,2025-02-10,UPI
+ORD00666,CUST0039,Fresh Active Roll On,Beauty & Hygiene,Nivea Men,4,776.52,2024-12-28,Credit Card
+ORD00667,CUST0057,Microwave Popcorn - Classic Salted,Snacks & Branded Foods,PIPO,3,201.0,2025-01-07,Credit Card
+ORD00668,CUST0016,Dog Food - Focus Adult 1.2kg + Dog Supplement - Absolute Skin + Coat Tablet 50pc,"Kitchen, Garden & Pets",Drools,1,620.55,2024-12-03,Net Banking
+ORD00669,CUST0094,Herbal Face Pack With Chandan Extracts Natural Skin Care For Glowing Skin,Beauty & Hygiene,Olivia,3,1083.75,2024-12-21,Net Banking
+ORD00670,CUST0002,Jelly Beans - Doypack,Gourmet & World Food,Fini,5,1125.0,2025-03-06,Cash on Delivery
+ORD00671,CUST0007,Alton Coffee Mugs - Vista Purple,"Kitchen, Garden & Pets",Claycraft,1,399.0,2025-01-28,Net Banking
+ORD00672,CUST0014,Feminine Pain Relief Patches,Beauty & Hygiene,Sirona,2,418.32,2025-03-22,Net Banking
+ORD00673,CUST0062,"Natural Clay Pack - Wild Turmeric, Saffron & Vetivert",Beauty & Hygiene,Satinance,2,300.0,2025-03-12,Debit Card
+ORD00674,CUST0095,"Menz-X Health With Shilajit, Ashwagandha, Kaunch & Safed Musli",Beauty & Hygiene,Foresta Organics,4,5996.0,2025-03-01,UPI
+ORD00675,CUST0043,Moisturising Cream,Beauty & Hygiene,Elovera,1,192.0,2025-01-19,
+ORD00676,CUST0100,Kitchen Chimney Filter De-Greaser Cleaner Concentrate Liquid With Brush,Cleaning & Household,Release on,5,1570.5,2024-12-05,Debit Card
+ORD00677,CUST0007,Green Tea - Natural,Beverages,Good Morning,4,700.0,2025-03-07,Debit Card
+ORD00678,CUST0086,Aval/Poha - Red Thick,"Foodgrains, Oil & Masala",bb Royal,5,350.0,2025-02-08,Cash on Delivery
+ORD00679,CUST0043,Jamun Kalakhatta Syrup - 100% Natural,Gourmet & World Food,Swa Artisanal Syrups,2,600.0,2025-03-11,UPI
+ORD00680,CUST0031,"Plastic Container - Printed, Crystal, 14803-P","Kitchen, Garden & Pets",Ratan,5,2895.0,2025-03-23,Debit Card
+ORD00681,CUST0073,Disposable Maternity & Nursing Breast Pads For Women,Baby Care,Sirona,1,155.22,2025-02-04,Debit Card
+ORD00682,CUST0051,Organic Jaljira Masala,"Foodgrains, Oil & Masala",MeraKisan,1,45.0,2024-12-15,Net Banking
+ORD00683,CUST0055,Ayurvedic Karela Powder,Beauty & Hygiene,Meghdoot,3,180.0,2025-01-29,Cash on Delivery
+ORD00684,CUST0083,Manicure Set In Case,Baby Care,Vauva,1,175.0,2025-01-16,Debit Card
+ORD00685,CUST0015,Stainless Steel Scrub,Cleaning & Household,Scotch brite,2,174.0,2025-02-21,Cash on Delivery
+ORD00686,CUST0014,Active Flax Seeds - Gluten Free,Gourmet & World Food,Nourish Organics,1,140.0,2025-02-10,Credit Card
+ORD00687,CUST0050,Stories Eau De Parfum,Beauty & Hygiene,Dkny,2,9690.0,2025-01-12,Credit Card
+ORD00688,CUST0066,Active Baby Large - 50 Diaper Pants,Baby Care,Pampers ,5,5385.1,2024-12-15,Net Banking
+ORD00689,CUST0043,Micro Hooks,"Kitchen, Garden & Pets",Command,5,495.0,2025-03-22,Credit Card
+ORD00690,CUST0066,Mopping Cloth - Big,Cleaning & Household,Raju's Cloth,2,198.0,2025-01-11,Debit Card
+ORD00691,CUST0089,Ayurvedic Ayush Kwath,Beauty & Hygiene,Meghdoot,3,330.0,2025-02-03,Net Banking
+ORD00692,CUST0038,"Variety Energy Bars-ChocoPeanut,CoconutAlmond,GojiberryBalckcurrantCashew,AlmondRaisin",Snacks & Branded Foods,GoodDiet,3,481.56,2024-12-07,UPI
+ORD00693,CUST0022,Black Charcoal Peel Off Mask - Ultimate Blackhead Remover,Beauty & Hygiene,Barber's Club,3,735.0,2025-01-14,Net Banking
+ORD00694,CUST0060,Tapioca Chips Chilly,Snacks & Branded Foods,A-1 Chips,4,140.0,2025-02-03,Cash on Delivery
+ORD00695,CUST0049,Badam Flavoured Milk,"Bakery, Cakes & Dairy",Godrej Jersey,1,25.0,2025-01-30,Cash on Delivery
+ORD00696,CUST0012,Natural Damage Repair Hair Kit - KA+ Hair System,Baby Care,The Moms Co,5,4910.0,2025-03-26,Debit Card
+ORD00697,CUST0078,Instant Polish - Black Leather,Cleaning & Household,Kiwi,4,196.0,2025-02-18,Debit Card
+ORD00698,CUST0065,Chicken - Sausages,"Eggs, Meat & Fish",Zorabian,1,170.0,2024-12-25,Net Banking
+ORD00699,CUST0033,"Sanitary Pads - XL Plus Wings, Ultra",Beauty & Hygiene,Whisper ,1,156.75,2024-12-11,Net Banking
+ORD00700,CUST0016,Organic - Flax Seeds,"Foodgrains, Oil & Masala",bb Royal,2,160.0,2025-01-06,UPI
+ORD00701,CUST0055,Fragrance Body Spray - Tag Him For Men,Beauty & Hygiene,Armaf,1,356.25,2024-12-22,Debit Card
+ORD00702,CUST0018,Rusk - Suji & Elaichi,"Bakery, Cakes & Dairy",Tasties,1,66.5,2025-02-28,Credit Card
+ORD00703,CUST0027,Sennahills - Capsule,Beauty & Hygiene,Herbal Hills,4,780.0,2024-12-20,Credit Card
+ORD00704,CUST0092,Nimbu Roasted Chana Jor,Snacks & Branded Foods,FabBox.in,5,955.0,2025-02-19,UPI
+ORD00705,CUST0040,Cloth - Kitchen,Cleaning & Household,Sln  ,3,135.0,2025-01-23,Cash on Delivery
+ORD00706,CUST0081,Power White Anti-Dark Cells Fairness Face Wash,Beauty & Hygiene,Garnier Men,2,304.0,2025-01-30,Debit Card
+ORD00707,CUST0007,"Bottle - Pet, Violet, Venus","Kitchen, Garden & Pets",Ratan,4,196.0,2025-01-26,UPI
+ORD00708,CUST0013,Mexican Chicken Pizza,Snacks & Branded Foods,Iceland,3,885.0,2024-12-25,UPI
+ORD00709,CUST0024,"Stainless Steel  Induction Compatible Pressure Cooker - Silver, HSS60","Kitchen, Garden & Pets",Hawkins,1,3657.5,2025-03-22,Credit Card
+ORD00710,CUST0093,Surakta - For Pimples & Acne-Free Skin,Beauty & Hygiene,Baidyanath,5,500.0,2025-02-21,Debit Card
+ORD00711,CUST0096,"Face Wash - Whitening, Clarifying",Beauty & Hygiene,Acnes,4,440.0,2025-02-13,Debit Card
+ORD00712,CUST0053,"Incense Sticks - Namo Paduka, Scented",Cleaning & Household,GIRI,3,30.0,2025-02-01,Cash on Delivery
+ORD00713,CUST0055,Flavored Center Chocolate - Pomegranate,Snacks & Branded Foods,Brookside,5,768.1,2025-03-18,Cash on Delivery
+ORD00714,CUST0029,"Fairness Naturals Hair Removal Cream Fair & Soft - Sandal, Dry Skin",Beauty & Hygiene,Fem,4,260.0,2025-01-28,Debit Card
+ORD00715,CUST0068,Stainless Steel Office Scissors With Blue Handle,Cleaning & Household,Cartini,5,1545.0,2024-12-17,Debit Card
+ORD00716,CUST0033,Marvel Avengers 304 Stainless Steel Lunch Box/Tiffin Box - HMWWLB 73362-AV,"Kitchen, Garden & Pets",Hm International,2,1198.0,2025-03-12,Debit Card
+ORD00717,CUST0025,Masala - Vangibath Powder,"Foodgrains, Oil & Masala",MTR,2,214.0,2025-01-31,Debit Card
+ORD00718,CUST0066,"Disinfectant Skin & Surface Wipes, Original 40 Count + Menthol Cool, 500 ml",Cleaning & Household,Dettol,3,799.2,2025-03-09,UPI
+ORD00719,CUST0041,Pasta - Rice Fusilli,Gourmet & World Food,Mamy,2,670.0,2025-01-15,Debit Card
+ORD00720,CUST0094,Zeal EDP Spicy Perfume For Men,Beauty & Hygiene,Ajmal,4,3660.0,2024-12-22,Cash on Delivery
+ORD00721,CUST0097,Dried Blueberries,Gourmet & World Food,Del Monte,2,950.0,2025-03-02,Cash on Delivery
+ORD00722,CUST0022,"Hand Wash - Mild Care, Germ Protection",Beauty & Hygiene,Lifebuoy,3,339.0,2024-12-24,Credit Card
+ORD00723,CUST0024,Coconut Oil - Cold Pressed,"Foodgrains, Oil & Masala",Swarnanjali ,2,880.0,2024-12-21,Credit Card
+ORD00724,CUST0098,Nutrition Energy Bar - Almonds & Raisins,Snacks & Branded Foods,GoodDiet,1,334.45,2024-12-06,Debit Card
+ORD00725,CUST0019,Kadhai Doodh,"Bakery, Cakes & Dairy",Amul,5,555.0,2024-12-17,Net Banking
+ORD00726,CUST0036,Double Chocolate Cookies,"Bakery, Cakes & Dairy",Cookie Man,3,675.0,2025-01-17,Credit Card
+ORD00727,CUST0070,Sea Salt,Gourmet & World Food,Graminway,2,98.0,2025-02-10,UPI
+ORD00728,CUST0008,French Lavender Handmade Soap,Beauty & Hygiene,Nyassa,3,1275.0,2025-01-14,Credit Card
+ORD00729,CUST0016,Kitchen Towel,Cleaning & Household,Scotch brite,3,415.35,2025-01-27,Cash on Delivery
+ORD00730,CUST0015,Mini Bhakharwadi,Snacks & Branded Foods,Garden,2,99999.0,2025-02-07,Debit Card
+ORD00731,CUST0026,"Coffee Creamer - Coffee-Mate, The Original",Gourmet & World Food,Nestle ,1,351.0,2025-03-28,UPI
+ORD00732,CUST0064,Jackfruit Pickle,Gourmet & World Food,Sakurafresh,4,1080.0,2025-03-30,Net Banking
+ORD00733,CUST0056,Face Scrub De Tan With Walnut Granules,Beauty & Hygiene,USTRAA,2,452.0,2025-01-28,Debit Card
+ORD00734,CUST0036,Medicated Til Oil,Beauty & Hygiene,Jiva Ayurveda,2,100.0,2024-12-01,Cash on Delivery
+ORD00735,CUST0017,Pork - Danish Luncheon Meat,Gourmet & World Food,Tulip,5,2250.0,2025-01-12,Debit Card
+ORD00736,CUST0044,Kare in Adult Diapers Pants Large,Beauty & Hygiene,Kare In,4,1776.0,2025-03-25,Debit Card
+ORD00737,CUST0004,Frankincense Essential Oil,Beauty & Hygiene,Nectar Valley,5,2325.0,2025-02-24,Credit Card
+ORD00738,CUST0013,Multigrain Thalipeeth Mix,Snacks & Branded Foods,Delight Foods,5,425.0,2025-03-04,Net Banking
+ORD00739,CUST0086,Olive & Oat Face Wash,Beauty & Hygiene,INATUR ,3,756.0,2025-02-27,UPI
+ORD00740,CUST0066,100% Pure Cashew Butter,Gourmet & World Food,Yoga bar,4,3196.0,2025-03-26,UPI
+ORD00741,CUST0048,Fusian Hong Kong Spicy Garlic Noodles,Snacks & Branded Foods,MAGGI ,2,40.0,2025-02-25,Cash on Delivery
+ORD00742,CUST0050,"Lavender & Peppermint Soap - Cooling, Refreshing",Beauty & Hygiene,Callesta,1,275.0,2025-01-09,UPI
+ORD00743,CUST0005,Prawns Balchao Masala,"Eggs, Meat & Fish",Gadre,4,1016.6,2025-02-18,Credit Card
+ORD00744,CUST0088,Daal Poori Atta,Gourmet & World Food,Graminway,4,640.0,2025-01-15,UPI
+ORD00745,CUST0052,Combo - Outer Lid Aluminum Pressure Cooker With Common Lid,"Kitchen, Garden & Pets",Srushti Gold,3,3747.0,2024-12-08,Cash on Delivery
+ORD00746,CUST0008,Anti Bacteria Fabric Stiffener - Instant Starch,Cleaning & Household,Revive,2,34.0,2025-02-13,Cash on Delivery
+ORD00747,CUST0083,Chai/Chai/Tea/ Coffee Bone China Microwave Series Small Mug Set - Pink & Green Flower,"Kitchen, Garden & Pets",BP Bharat,2,538.0,2025-03-11,Debit Card
+ORD00748,CUST0082,Chamomile Herbal Infusion,Gourmet & World Food,Teamonk,2,910.0,2024-12-03,UPI
+ORD00749,CUST0054,Ready To Eat - Paneer Tikka Masala,Snacks & Branded Foods,MTR,5,625.0,2025-03-19,Net Banking
+ORD00750,CUST0057,100% Spanish Extra Virgin Olive Oil,Gourmet & World Food,Sol,1,521.5,2025-02-04,Net Banking
+ORD00751,CUST0005,Pom Pom AC Medium Plate Set,"Kitchen, Garden & Pets",Corelle,2,5418.0,2025-02-01,Debit Card
+ORD00752,CUST0023,Mango Chilli Jam,Gourmet & World Food,Prasukh,5,445.5,2025-02-16,Cash on Delivery
+ORD00753,CUST0050,"Aluminium Pressure Cooker - Super SLVR Plus, Induction Base, Silver","Kitchen, Garden & Pets",UCOOK,1,1149.0,2025-03-27,Debit Card
+ORD00754,CUST0028,Smoked Back Bacon,"Eggs, Meat & Fish",Meatzza,4,1400.0,2024-12-19,Net Banking
+ORD00755,CUST0068,Alfalfa Powder,Beauty & Hygiene,NUTRIWISH,3,2400.0,2025-01-19,Debit Card
+ORD00756,CUST0042,Jet Mukhwas,"Foodgrains, Oil & Masala",Chandan,1,120.0,2025-01-06,Debit Card
+ORD00757,CUST0051,Oil - Canola,"Foodgrains, Oil & Masala",Jivo,3,837.0,2025-01-09,Net Banking
+ORD00758,CUST0022,Basmati Rice/Basmati Akki - Brown (Quick Cooking),"Foodgrains, Oil & Masala",Daawat ,5,3245.0,2024-12-12,Credit Card
+ORD00759,CUST0069,"Multi Utility Plastic Basket - Medium, Cream, Royal",Cleaning & Household,Ratan,4,996.0,2025-03-05,Net Banking
+ORD00760,CUST0074,Dried Oranges,Snacks & Branded Foods,FabBox,4,640.0,2025-01-06,Credit Card
+ORD00761,CUST0047,Fresh Start Oil Clear Peach Face Wash,Beauty & Hygiene,Himalaya,4,420.0,2025-03-04,Net Banking
+ORD00762,CUST0005,Hydro Toner,Beauty & Hygiene,Faces,2,718.5,2025-03-17,Cash on Delivery
+ORD00763,CUST0031,Strawberry Essence,Snacks & Branded Foods,HappyChef,5,495.0,2024-12-12,Credit Card
+ORD00764,CUST0070,Fruit Juice - Guava Delight,Beverages,Tropicana,2,253.44,2025-01-08,Net Banking
+ORD00765,CUST0001,6 Seconds Filter Coffee Decoction,Gourmet & World Food,Hatti Kaapi,5,250.0,2025-01-12,UPI
+ORD00766,CUST0094,Kids Favourite,Snacks & Branded Foods,ITC Master Chef,5,1963.0,2025-03-07,Net Banking
+ORD00767,CUST0011,Classic Instant Coffee,Beverages,Nescafe ,1,550.0,2024-12-01,Net Banking
+ORD00768,CUST0014,Lime Fresh 500 ml + Laundry San- Fresh Linen 480 ml,Cleaning & Household,Dettol,3,909.9,2025-01-23,Credit Card
+ORD00769,CUST0068,Majmua Concentrated Oriental Perfume Free From Alcohol For Unisex,Beauty & Hygiene,Ajmal,5,1750.0,2025-01-29,Cash on Delivery
+ORD00770,CUST0081,Lusciously Thick & Long Conditioner,Beauty & Hygiene,Sunsilk,2,570.0,2024-12-26,Credit Card
+ORD00771,CUST0070,Face Scrub - Walnut Orange,Beauty & Hygiene,Sri Sri Ayurveda ,4,240.0,2025-01-07,Cash on Delivery
+ORD00772,CUST0038,Soft Woollens Expert Care Wash Liquid Detergent,Cleaning & Household,Love & Care,4,716.4,2024-12-06,Debit Card
+ORD00773,CUST0094,Classic Man Eau De Toilette,Beauty & Hygiene,Nautica,5,8062.5,2025-01-08,Net Banking
+ORD00774,CUST0070,Soft Baby Wipes - With Green Tea Essence,Baby Care,Mamypoko,5,245.0,2025-03-05,Net Banking
+ORD00775,CUST0057,Dried - Cranberries 200G + Prunes 200G + Apricots  200G + Blueberries 150G,Gourmet & World Food,Happilo,2,2560.0,2024-12-04,UPI
+ORD00776,CUST0071,Steel Storage Hammered Touch Container Set With Double Moulded PP Lid - Silver,"Kitchen, Garden & Pets",Vinayak,2,598.0,2025-01-03,Debit Card
+ORD00777,CUST0093,Lemon & Oil Shower Gel - Pampering Care With Refreshing Scent Of Lemon,Beauty & Hygiene,Nivea,4,564.0,2024-12-16,Debit Card
+ORD00778,CUST0089,Midnight Jasmine Aroma Oil,Cleaning & Household,Soulflower,4,3200.0,2024-12-23,Net Banking
+ORD00779,CUST0016,Taft Power Wax,Beauty & Hygiene,Schwarzkopf,2,850.0,2024-12-04,UPI
+ORD00780,CUST0049,"Steel Dinner Plate/Thali - No. 12, Gujrati","Kitchen, Garden & Pets",BB Home,3,987.0,2025-02-02,UPI
+ORD00781,CUST0100,Sprout Maker With 3 Container,"Kitchen, Garden & Pets",Anjali,5,1145.0,2025-03-06,Debit Card
+ORD00782,CUST0076,"Apple Cider Vinegar - With Mother, Unfiltered & Unpasteurized",Gourmet & World Food,TrueNature,5,2500.0,2025-01-31,Cash on Delivery
+ORD00783,CUST0063,Virgin Coconut Oil (Cold Pressed),"Foodgrains, Oil & Masala",Maxcare,4,2800.0,2025-03-22,Debit Card
+ORD00784,CUST0056,Organic Rock Salt/Uppu,"Foodgrains, Oil & Masala",MeraKisan,4,196.0,2025-02-27,UPI
+ORD00785,CUST0040,Pomegranate Face & Body Scrub,Beauty & Hygiene,Globus Naturals,3,396.0,2025-02-04,Cash on Delivery
+ORD00786,CUST0067,Veda Marie Light Biscuits,Snacks & Branded Foods,Sunfeast,1,10.0,2025-03-19,Debit Card
+ORD00787,CUST0087,"Round & Flat Storage Container - With lid, Green","Kitchen, Garden & Pets",Mastercook,2,316.0,2025-02-13,UPI
+ORD00788,CUST0093,Purifying Neem Peel-Off Mask,Beauty & Hygiene,Himalaya,2,229.5,2025-01-10,Net Banking
+ORD00789,CUST0009,Multi Surface Protectant,Cleaning & Household,Raho Safe,2,498.0,2025-01-15,Credit Card
+ORD00790,CUST0080,Extra Moisturizing Baby Wash,Baby Care,Himalaya,1,265.0,2025-01-04,Debit Card
+ORD00791,CUST0027,Energy Bars - Hazelnut Magic,Gourmet & World Food,On The Run,4,1200.0,2025-02-20,Debit Card
+ORD00792,CUST0024,Noodles - Masala 280 gm + Ketchup Tomato 1 kg,Snacks & Branded Foods,MAGGI ,1,178.7,2025-01-07,Debit Card
+ORD00793,CUST0057,Organic - Flax Seeds,"Foodgrains, Oil & Masala",bb Royal,5,400.0,2025-02-20,UPI
+ORD00794,CUST0096,Broom - Plastic Karata,Cleaning & Household,Dash,5,500.0,2024-12-25,Credit Card
+ORD00795,CUST0011,Wonder Pants Medium Size Diapers Monthly Pack,Baby Care,Huggies,1,1401.87,2025-02-15,Credit Card
+ORD00796,CUST0063,"Non Stick Dosa Tawa - Q41, 33 Cm","Kitchen, Garden & Pets",Hawkins Futura,5,7861.25,2025-01-11,Debit Card
+ORD00797,CUST0004,New Xtra Small - 86 Diaper Pants,Baby Care,Pampers ,3,2439.78,2025-01-04,Debit Card
+ORD00798,CUST0040,Sail Eau De Toilette,Beauty & Hygiene,Nautica,1,1837.5,2025-02-07,Cash on Delivery
+ORD00799,CUST0060,Gulabari Moisturizing Cold Cream (Skin Moisturiser),Beauty & Hygiene,Dabur,3,132.0,2025-03-16,Credit Card
+ORD00800,CUST0002,Premium Natural Anti Mosquito Patches,Beauty & Hygiene,Bodyguard,1,148.75,2024-12-18,Cash on Delivery
+ORD00801,CUST0097,Laser Knife - Swift,"Kitchen, Garden & Pets",Anjali,3,180.0,2025-01-17,Net Banking
+ORD00802,CUST0006,Butter Cashew Cookies,Snacks & Branded Foods,Tasties,4,322.68,2025-01-13,Credit Card
+ORD00803,CUST0084,Om Shanthi Naivedya Cup Sambrani,Cleaning & Household,Cycle,1,72.0,2024-12-28,Credit Card
+ORD00804,CUST0022,"Super Tight Plastic Container - Printed, Assorted Colour","Kitchen, Garden & Pets",JOYO,5,895.0,2024-12-29,Credit Card
+ORD00805,CUST0075,Maxx Pet Plastic Premium Container - Yellow,"Kitchen, Garden & Pets",Saaj,5,445.0,2025-02-17,Cash on Delivery
+ORD00806,CUST0042,"Stainless Steel Vanna Chetty -  Copper Bottom, No.9","Kitchen, Garden & Pets",Omega,5,745.0,2025-03-02,Cash on Delivery
+ORD00807,CUST0063,Natirel Raw Banana Flour,Gourmet & World Food,Kokos Natural,1,199.0,2025-01-23,Net Banking
+ORD00808,CUST0090,Musk Deo Spray For Men,Beauty & Hygiene,Aramusk,1,100.0,2024-12-15,Credit Card
+ORD00809,CUST0028,Shower Gel - Warm Vanilla Sugar,Beauty & Hygiene,Dear Body,1,225.0,2025-01-31,Debit Card
+ORD00810,CUST0040,"Body Bath Loofah/Sponge/Scrubber - Hangable - Grey, BH002GRY","Kitchen, Garden & Pets",BB Home,3,417.0,2025-02-27,Debit Card
+ORD00811,CUST0023,"Total Face Cleanup Women Face Wash, Face Scrub & Face Pack",Beauty & Hygiene,Nivea,2,230.4,2025-03-15,Net Banking
+ORD00812,CUST0070,Airtight Lock-N-Pack Plastic Container - Transparent,"Kitchen, Garden & Pets",Laplast,5,595.0,2025-02-05,Debit Card
+ORD00813,CUST0078,Vasaka Leaves Powder - Supports Healthy Respiratory Function & As Bronchodialator,Beauty & Hygiene,Bixa Botanical,2,390.0,2025-03-01,Debit Card
+ORD00814,CUST0095,"Neem, Tea Tree & Basil Face Wash- Oil Control, Anti Acne",Beauty & Hygiene,Morpheme Remedies,1,349.0,2025-03-06,UPI
+ORD00815,CUST0029,Cellulose Power Scrub Sponge,Cleaning & Household,York,2,255.2,2024-12-17,Credit Card
+ORD00816,CUST0071,Steel Flat Bottom Tope/Patila/Bhagona -  No. 12,"Kitchen, Garden & Pets",BB Home,2,438.0,2025-01-09,Credit Card
+ORD00817,CUST0027,"Lizol Floor Cleaner, Citrus - 500ml + Harpic Bathroom Cleaning Liquid - Lemon 500ml",Cleaning & Household,bb Combo,2,343.46,2024-12-17,UPI
+ORD00818,CUST0099,Waterproof Toilet Seat Cover,Cleaning & Household,Peebuddy,4,1190.0,2025-02-27,UPI
+ORD00819,CUST0065,Roasted Grains,"Foodgrains, Oil & Masala",Manna ,1,269.0,2024-12-03,Net Banking
+ORD00820,CUST0015,Tea - Diabetes Control,Beverages,9t9,4,396.0,2024-12-06,Credit Card
+ORD00821,CUST0056,Charcoal Face Scrub,Beauty & Hygiene,Fizzy Fern,1,297.5,2024-12-05,Cash on Delivery
+ORD00822,CUST0079,Tedhe Medhe Namkeens Cocktail Mix,Snacks & Branded Foods,Bingo,5,250.0,2024-12-08,Net Banking
+ORD00823,CUST0100,Kool - Rose,"Bakery, Cakes & Dairy",Amul,1,25.0,2025-03-27,Debit Card
+ORD00824,CUST0036,Cold Processed Lemon Ginger Handmade Soap,Beauty & Hygiene,Soulflower,1,255.0,2024-12-09,Debit Card
+ORD00825,CUST0011,"Almond Biscotti – Gluten-free, Egg-free, Dairy-free",Gourmet & World Food,She made,1,66.33,2025-03-07,UPI
+ORD00826,CUST0025,Organic Mixed Millet Flour,Gourmet & World Food,Dhatu Organics & Naturals,1,120.0,2025-03-28,Cash on Delivery
+ORD00827,CUST0015,Soft Drink - Original Taste,Beverages,Coca-Cola,2,170.0,2025-02-14,Credit Card
+ORD00828,CUST0024,Mustard/Sasive/Rai - Small,"Foodgrains, Oil & Masala",bb Popular,2,28.0,2025-02-24,Debit Card
+ORD00829,CUST0045,Premium Care New Baby Small - 70 Pant Diapers,Baby Care,Pampers ,1,813.26,2024-12-12,Credit Card
+ORD00830,CUST0017,Absolute Argan Oil Radiance Night Revival Eye Creme,Beauty & Hygiene,Lakme,3,1560.0,2025-02-13,Debit Card
+ORD00831,CUST0043,Rose Woman Deodorant,Beauty & Hygiene,Nike,3,669.6,2024-12-21,Cash on Delivery
+ORD00832,CUST0006,"Reusable Menstrual Cup With Medical Grade Silicone - Large, FDA Approved",Beauty & Hygiene,Sirona,5,1496.25,2024-12-31,Cash on Delivery
+ORD00833,CUST0054,Organic - Red Raw Rice/Akki,"Foodgrains, Oil & Masala",bb Royal,5,650.0,2024-12-09,UPI
+ORD00834,CUST0030,Beard Wax - Styling With Strong Hold & Matte Finish,Beauty & Hygiene,Man Arden,5,1495.0,2025-03-08,UPI
+ORD00835,CUST0065,Ready Mix - Millet Dosa,"Foodgrains, Oil & Masala",24 Mantra,5,350.0,2024-12-28,Credit Card
+ORD00836,CUST0088,Wall Stickable Pack,Cleaning & Household,Veg Fru Wash,3,3000.0,2024-12-22,Cash on Delivery
+ORD00837,CUST0047,Wafer Napolitaner,Gourmet & World Food,Loacker,1,99.0,2025-03-03,UPI
+ORD00838,CUST0046,Bird Food For Love Birds & Cockatiel,"Kitchen, Garden & Pets",Drools,2,423.3,2025-03-28,Cash on Delivery
+ORD00839,CUST0014,"Fruit Juice - Fruit Plus, Florida Orange",Beverages,Rasna,4,840.0,2025-01-16,Cash on Delivery
+ORD00840,CUST0006,"Face Mask With Anti Viral Coating - 2 Ply, Cotton, Medium",Beauty & Hygiene,Ants-Duraprot,2,218.0,2025-01-26,UPI
+ORD00841,CUST0085,Rusk - Ragi,"Bakery, Cakes & Dairy",Tasties,2,186.2,2025-03-17,Debit Card
+ORD00842,CUST0099,Masala - Pulav Biryani,"Foodgrains, Oil & Masala",Badshah,4,264.0,2025-01-24,Credit Card
+ORD00843,CUST0039,Face Pack - Fairness,Beauty & Hygiene,Vegetal,5,1700.0,2024-12-30,Net Banking
+ORD00844,CUST0088,Roll Yo! Choco Swiss Roll,"Bakery, Cakes & Dairy",Britannia,1,10.0,2025-03-08,Debit Card
+ORD00845,CUST0040,Energy Bar - Assorted,Snacks & Branded Foods,On The Run,1,600.0,2025-01-29,UPI
+ORD00846,CUST0016,Baby Prickly Heat Powder,Baby Care,Himalaya,5,700.0,2024-12-18,
+ORD00847,CUST0084,"Incense Sticks - Namo Kirtan, Scented",Cleaning & Household,GIRI,3,150.0,2025-03-01,Debit Card
+ORD00848,CUST0059,Easy Mix - Palappam,Snacks & Branded Foods,Double Horse,5,345.0,2025-03-03,UPI
+ORD00849,CUST0070,"Dietary Supplement - Deep Sea Salmon Fish Oil, Premium",Gourmet & World Food,Alaska,1,1500.0,2025-01-11,Net Banking
+ORD00850,CUST0053,Nalpamaradi Keram,Beauty & Hygiene,Kerala Ayurveda,1,70.0,2025-01-19,Debit Card
+ORD00851,CUST0080,Brightening Beads Cleanser+Pigmentation Reduction Complex,Beauty & Hygiene,Kaya Clinic,4,4384.0,2025-02-15,Debit Card
+ORD00852,CUST0031,Creme Bleach - De-Tan,Beauty & Hygiene,Fem,4,262.4,2024-12-29,Cash on Delivery
+ORD00853,CUST0006,"Steel Storage/Lunch Container - No.41, Pink, Klip It","Kitchen, Garden & Pets",Joyo Steel,4,996.0,2025-01-07,Net Banking
+ORD00854,CUST0052,"Plastic Zig Zag Carrying Basket - Medium, Assorted Colour",Cleaning & Household,Flair,2,198.0,2025-03-20,UPI
+ORD00855,CUST0060,A Fruit And Vegetable Wash,Cleaning & Household,Veg Wash +,4,396.0,2025-03-31,Debit Card
+ORD00856,CUST0081,"Shaving Cream With Tea Tree Oil, Aloe Vera & Menthol Extract",Beauty & Hygiene,Bombay Shaving Company,2,316.0,2024-12-02,Net Banking
+ORD00857,CUST0062,"Steel Deep Dabba/Storage Container  - No. 13, Diamond","Kitchen, Garden & Pets",BB Home,1,299.0,2025-01-20,Net Banking
+ORD00858,CUST0063,Diaper Rash Cream,Beauty & Hygiene,Mom & World,5,1495.0,2025-02-23,UPI
+ORD00859,CUST0081,Classic Fruit Center Filled Choco Assortments,Gourmet & World Food,KOKOLEKA,1,315.0,2024-12-19,Net Banking
+ORD00860,CUST0011,Shea Smooth Body Lotion for Dry Skin - Men & Women,Beauty & Hygiene,Nivea,4,1200.0,2025-02-27,Cash on Delivery
+ORD00861,CUST0007,"Steel Storage/Lunch Container - No.20, Grey, Klip It","Kitchen, Garden & Pets",Joyo Steel,1,129.0,2025-03-05,Credit Card
+ORD00862,CUST0003,Peacock - Kasoori Methi,"Foodgrains, Oil & Masala",Mdh,1,24.0,2025-01-16,Credit Card
+ORD00863,CUST0024,"Paper Eye Mask, 482 x 864 mm",Cleaning & Household,B Vishal,3,75.0,2024-12-26,Cash on Delivery
+ORD00864,CUST0100,Urbane Nights - Eau De Toilette For Men,Beauty & Hygiene,All Good Scents,4,4128.0,2024-12-16,Credit Card
+ORD00865,CUST0090,Natural Coconut Sugar/Sakkare,"Foodgrains, Oil & Masala",Tree Grab,4,632.0,2025-03-03,Net Banking
+ORD00866,CUST0057,Instant Noodles - Aglio Olio,Gourmet & World Food,Koka,3,99999.0,2025-03-08,Cash on Delivery
+ORD00867,CUST0085,"Hair Care Kit - Oil, Shampoo, Conditioner & Serum",Beauty & Hygiene,Dr Batra's ,5,3255.0,2025-01-04,Net Banking
+ORD00868,CUST0039,Glass Serving Mixing Bowl,"Kitchen, Garden & Pets",Gupta Glass Ideas,3,507.0,2025-01-30,Cash on Delivery
+ORD00869,CUST0054,FunFoods Veg Mayonnaise Tandoori,Snacks & Branded Foods,Dr. Oetker,4,300.0,2025-02-01,Cash on Delivery
+ORD00870,CUST0020,Wipeout Sanitizing Spray,Beauty & Hygiene,MyGlamm,3,477.6,2024-12-19,Net Banking
+ORD00871,CUST0045,Organic Virgin Coconut Oil - Pure Coldpressed & Undiluted Oil,Beauty & Hygiene,Morpheme Remedies,1,427.0,2024-12-16,Debit Card
+ORD00872,CUST0033,"Wafer Roll - Twister, With Strawberry Flavoured Cream",Gourmet & World Food,Delfi,4,1100.0,2025-02-02,Credit Card
+ORD00873,CUST0047,Quincenourish Quince Seed Massage Creme,Beauty & Hygiene,Lotus Herbals,2,1192.5,2024-12-04,UPI
+ORD00874,CUST0081,Cold Pressed Organic Sunflower Oil,Gourmet & World Food,Nutriorg,1,1995.0,2025-03-17,UPI
+ORD00875,CUST0072,Rice Water Bright Cleansing Cream,Beauty & Hygiene,The Face Shop,4,2660.0,2025-02-25,UPI
+ORD00876,CUST0013,Baking Powder,Gourmet & World Food,Abbies,2,550.0,2025-01-18,Cash on Delivery
+ORD00877,CUST0016,Romantic Eau De Toilette For Women,Beauty & Hygiene,Enchanteur,3,1794.0,2024-12-20,Debit Card
+ORD00878,CUST0016,Badam Tail - 100% Pure Almond Oil,Beauty & Hygiene,Dabur,5,880.0,2025-02-18,UPI
+ORD00879,CUST0055,Fruit/Veggie Eco Wash - Organic Multi-Enzyme Formula,Cleaning & Household,Kolan,1,495.0,2025-02-23,Cash on Delivery
+ORD00880,CUST0001,Premium Soft Diaper Pants - Small Size,Baby Care,Huggies,4,8071.68,2025-03-12,Net Banking
+ORD00881,CUST0073,W2 Perfume Spray - For Women,Beauty & Hygiene,Engage,2,323.4,2025-01-07,Net Banking
+ORD00882,CUST0082,Powder - Red Chilly,"Foodgrains, Oil & Masala",Badshah,4,152.0,2025-02-03,Debit Card
+ORD00883,CUST0080,Dates Powder - Natural Sweetener,Baby Care,Early Foods,5,1500.0,2025-01-13,Cash on Delivery
+ORD00884,CUST0043,Organic Toor Dal//Togari Bele,"Foodgrains, Oil & Masala",Tata Sampann,5,1020.0,2024-12-03,UPI
+ORD00885,CUST0100,Premium Plastic Bathing Mug - Red,Cleaning & Household,BB Home,4,232.0,2025-03-23,UPI
+ORD00886,CUST0014,"Banana - Yellaki, Organically Grown",Fruits & Vegetables,Fresho,4,132.0,2025-01-27,Debit Card
+ORD00887,CUST0053,Beer Shampoo - Anti Dandruff,Beauty & Hygiene,Park avenue,4,496.0,2025-01-26,Net Banking
+ORD00888,CUST0030,Anti-Dandruff Natural Ayurvedic Neem Shampoo,Beauty & Hygiene,Lever Ayush,1,120.0,2024-12-05,Credit Card
+ORD00889,CUST0005,"Notebook - Soft Bound, Un Ruled",Cleaning & Household,Vijay,5,150.0,2025-02-23,Debit Card
+ORD00890,CUST0085,Bxl Cellular - Cleansing Solution Face Wash,Beauty & Hygiene,BIOTIQUE,2,748.5,2025-02-01,Net Banking
+ORD00891,CUST0054,Jasmine Bloom Soap Bar,Beauty & Hygiene,Lux,2,20.0,2025-01-09,Net Banking
+ORD00892,CUST0001,Roasted & Salted - Pumpkin Seed,Gourmet & World Food,Delight Nuts,4,1396.0,2025-03-08,UPI
+ORD00893,CUST0015,Sipwell Bottle Set - Orange,"Kitchen, Garden & Pets",Cello,5,1375.0,2025-02-25,Net Banking
+ORD00894,CUST0072,Mix Dal,"Foodgrains, Oil & Masala",bb Royal,5,735.0,2025-02-26,Cash on Delivery
+ORD00895,CUST0087,Caramel Spread,Gourmet & World Food,Cadbury,5,3250.0,2025-01-30,Net Banking
+ORD00896,CUST0036,"Round Plastic Container - With Lid, Pink","Kitchen, Garden & Pets",Mastercook,5,1095.0,2025-03-20,Credit Card
+ORD00897,CUST0092,Cheese Spread - Original Cheddar,Gourmet & World Food,Kraft,5,2750.0,2024-12-08,Net Banking
+ORD00898,CUST0063,Toner - Absolute Pore Fix,Beauty & Hygiene,Lakme,3,854.25,2025-02-02,Cash on Delivery
+ORD00899,CUST0042,Gandha Thailam,Beauty & Hygiene,Kerala Ayurveda,4,2400.0,2025-02-17,Debit Card
+ORD00900,CUST0050,Baby Happy Diapers - Maxi,Baby Care,Bella,3,7914.0,2025-01-11,UPI
+ORD00901,CUST0014,Diaper Rash Cream,Beauty & Hygiene,Mom & World,1,299.0,2025-02-14,UPI
+ORD00902,CUST0088,Bergamot Pure Essential Oil,Beauty & Hygiene,INATUR ,2,630.0,2025-03-18,Debit Card
+ORD00903,CUST0093,"Toothbrush Superhero Assorted, Batman/Spiderman",Beauty & Hygiene,Colgate,3,147.0,2025-03-14,Cash on Delivery
+ORD00904,CUST0085,Tricolor Toasted Pearl Couscous,Gourmet & World Food,Dolce Vita,1,157.5,2025-03-08,Debit Card
+ORD00905,CUST0041,Organic - Black Pepper/Kari Menasu Whole,"Foodgrains, Oil & Masala",Phalada Pure & Sure,4,640.0,2024-12-13,Net Banking
+ORD00906,CUST0078,Deodorant For Men,Beauty & Hygiene,Dr Batra's ,3,352.5,2025-01-15,Net Banking
+ORD00907,CUST0084,Expressions Premium Chocolates,Gourmet & World Food,Lindberg,3,3141.0,2024-12-08,Credit Card
+ORD00908,CUST0067,Body Wash & Shower Gel - Cool,Beauty & Hygiene,Dettol,2,300.0,2024-12-31,Debit Card
+ORD00909,CUST0041,Organic Jowar Flour/Jolada Hittu,"Foodgrains, Oil & Masala",MeraKisan,5,605.0,2024-12-11,UPI
+ORD00910,CUST0013,Baby Prickly Heat Powder,Baby Care,Himalaya,3,420.0,2024-12-15,Debit Card
+ORD00911,CUST0060,Hand Sanitiser - Green Apple,Beauty & Hygiene,Nyle,2,1000.0,2024-12-03,Cash on Delivery
+ORD00912,CUST0017,Durum Wheat Pasta - Penne Rigate,Gourmet & World Food,Barilla,3,747.0,2024-12-05,Net Banking
+ORD00913,CUST0038,Rich Hand V Special Care Hand Mask,Beauty & Hygiene,The Face Shop,4,850.0,2025-02-11,Cash on Delivery
+ORD00914,CUST0013,Apple Cider Vinegar,Gourmet & World Food,Heinz,4,1180.0,2025-01-04,UPI
+ORD00915,CUST0055,Salted Peanuts,Gourmet & World Food,Tong Garden,4,120.0,2025-02-14,UPI
+ORD00916,CUST0037,Body Massage Oil For Stress Relief,Beauty & Hygiene,Fizzy Fern,3,1389.75,2025-01-18,Cash on Delivery
+ORD00917,CUST0049,"Lunch Box/Tiffin Stainless Steel - Small, Brunch","Kitchen, Garden & Pets",NanoNine,4,340.0,2025-01-11,Cash on Delivery
+ORD00918,CUST0094,Rich Moisture Baby Wipes,Baby Care,Baby Dove,1,114.75,2025-03-14,Net Banking
+ORD00919,CUST0083,Simlipal Honey,Gourmet & World Food,Spirit of the Tribe,1,379.05,2025-02-27,Credit Card
+ORD00920,CUST0039,Fields Of Gold Organic Multi Millet Mix - Breakfast Porridge,Snacks & Branded Foods,PRISTINE,3,480.0,2025-02-02,Cash on Delivery
+ORD00921,CUST0037,Defence Theory Water Resistant Sunscreen Lotion 40+ SPF PA+++,Beauty & Hygiene,The Man Company,3,1467.9,2024-12-22,Cash on Delivery
+ORD00922,CUST0049,"Multi Utility Plastic Basket - Brown, Royal, 24010 A4 - Br",Cleaning & Household,Ratan,3,507.0,2025-01-16,Net Banking
+ORD00923,CUST0001,Airwick Freshmatic Automatic Air Freshener Kit - Nagpur Narangi,Cleaning & Household,Air wick,2,1076.0,2025-02-02,UPI
+ORD00924,CUST0043,Mango Raspuri - Organically Grown,Fruits & Vegetables,Fresho,5,390.0,2024-12-28,Debit Card
+ORD00925,CUST0078,"Multi Utility Plastic Basket - Desert Rose, Royal, 24010 A4 - DR",Cleaning & Household,Ratan,3,507.0,2024-12-07,Debit Card
+ORD00926,CUST0010,Steak Knife 9 cm Soft Grip Handle New Handle,"Kitchen, Garden & Pets",Ritu,5,325.0,2025-01-21,Credit Card
+ORD00927,CUST0002,"LED Bulb - 15 W, Cool Daylight, B22 Base","Kitchen, Garden & Pets",Nippo,5,1125.0,2025-03-06,UPI
+ORD00928,CUST0049,Ready to Fry - 3D Potato Long Square Tube,Snacks & Branded Foods,Tasties,5,275.0,2024-12-13,Cash on Delivery
+ORD00929,CUST0086,Gluten-Free Multi Millet Pongal Mix,Snacks & Branded Foods,Graminway,3,1050.0,2025-01-04,UPI
+ORD00930,CUST0085,Organic Dosa Mix - Multi Grain,Snacks & Branded Foods,Aaha Oho,5,375.0,2025-03-13,Cash on Delivery
+ORD00931,CUST0082,Naturals Mosquito Repellent Spray,Cleaning & Household,Odomos,4,289.0,2025-01-24,Credit Card
+ORD00932,CUST0074,Green Tea Mugs With Message,"Kitchen, Garden & Pets",Hot Muggs,3,3357.0,2025-03-12,UPI
+ORD00933,CUST0062,"Deodorant Roll On - Fresh Power, 48h Long Lasting Freshness With Fresh Musk Scent",Beauty & Hygiene,Nivea Men,3,477.6,2025-02-03,Debit Card
+ORD00934,CUST0038,Pantry/Cookie/Snacks Glass Jar With Blue Lid,"Kitchen, Garden & Pets",Yera,4,916.0,2025-02-23,Cash on Delivery
+ORD00935,CUST0085,"Chocolate Bar - Bar One, Charge",Snacks & Branded Foods,Nestle ,3,48.0,2024-12-26,Net Banking
+ORD00936,CUST0071,Stainless Steel Water Bottle - Red BB 505 2,"Kitchen, Garden & Pets",DP,4,996.0,2025-01-02,Cash on Delivery
+ORD00937,CUST0083,De-Tan Facewash For Men,Beauty & Hygiene,Beardo,5,1150.0,2025-01-28,Cash on Delivery
+ORD00938,CUST0047,Beard Growth Oil Powered with Vetiver & 4 Essential Oils,Beauty & Hygiene,Bombay Shaving Company,2,434.0,2025-03-23,UPI
+ORD00939,CUST0066,Disinfectant Toilet Cleaner Liquid - 1 L + Bathroom Cleaner Liquid - 500 ml,Cleaning & Household,Harpic,5,1235.6,2025-03-21,Credit Card
+ORD00940,CUST0043,Sooji Ordinary/Bombay Rava,"Foodgrains, Oil & Masala",Super Saver,5,190.0,2025-02-02,Credit Card
+ORD00941,CUST0069,"Body Bath Dual Sided Hangable Loofah/Sponge/Scrubber - Cream, BB1424",Beauty & Hygiene,Muyi,4,396.0,2025-01-04,Cash on Delivery
+ORD00942,CUST0008,100% Authentic Italian Pomace Olive Oil,Gourmet & World Food,Colavita,5,15750.0,2025-03-20,Net Banking
+ORD00943,CUST0037,Anfora Olive Oil - Pure,Gourmet & World Food,Monini,5,6500.0,2025-03-04,UPI
+ORD00944,CUST0014,Sandalum,Cleaning & Household,Cycle,5,300.0,2024-12-26,Debit Card
+ORD00945,CUST0026,Thousand Island Dressing Lite,Gourmet & World Food,American Garden ,4,1080.0,2024-12-19,Credit Card
+ORD00946,CUST0001,Wipro Safewash MaticTopLoad Liquid 1kg+Giffy DishwashGel Lemon Active&Salt 900ml,Cleaning & Household,bb Combo,2,745.08,2025-03-06,Debit Card
+ORD00947,CUST0008,Extra Virgin Olive Oil,Gourmet & World Food,BORGES,4,3300.08,2025-01-22,Debit Card
+ORD00948,CUST0030,"Animal Buddy - Bhutan Jungle Discovery Game, Kids, Play & Early Learn, Multi-Colour",Cleaning & Household,Kaadoo,1,300.0,2025-02-20,Credit Card
+ORD00949,CUST0096,Quark Cheese,Gourmet & World Food,MOOZ,4,800.0,2025-01-04,Debit Card
+ORD00950,CUST0041,"Signature Filter Instant Coffee Powder Make Cold Coffee, Hot Coffee & Cappuccino",Gourmet & World Food,TGL Co.,2,448.5,2025-01-02,Cash on Delivery
+ORD00951,CUST0086,Conditioner - Hair Repair,Beauty & Hygiene,Richfeel,2,322.0,2025-01-21,Credit Card
+ORD00952,CUST0024,Orange & Bee Wax Brightening Scrub,Beauty & Hygiene,Glamveda,1,208.0,2024-12-20,Credit Card
+ORD00953,CUST0095,Pre-Waxing Gel - Lemon,Beauty & Hygiene,Jeva,1,337.5,2025-01-01,Debit Card
+ORD00954,CUST0030,Dust Tea,Beverages,Tata Tea Agni,4,600.0,2025-02-01,Cash on Delivery
+ORD00955,CUST0093,Basic Blue Man Deodorant,Beauty & Hygiene,Nike,4,1060.2,2025-01-24,UPI
+ORD00956,CUST0080,Kitkat Dessert Delight Heavenly Brownie Kubes Wafer Coated With Dark Chocolate Tablets,Snacks & Branded Foods,Nestle ,2,120.0,2024-12-21,Debit Card
+ORD00957,CUST0030,Real Ice Cream - Chocolate Brownie,"Bakery, Cakes & Dairy",Amul,2,400.0,2024-12-04,Debit Card
+ORD00958,CUST0014,Organic Cow Ghee/Tuppa,"Foodgrains, Oil & Masala",Akshayakalpa,3,840.0,2025-02-23,Cash on Delivery
+ORD00959,CUST0099,Minute Meals - Chana Masala & Basmati Rice Combo,Snacks & Branded Foods,MTR,2,225.0,2025-02-21,UPI
+ORD00960,CUST0073,Jojoba Oil,Beauty & Hygiene,Aloe Veda,4,4590.0,2025-03-11,UPI
+ORD00961,CUST0051,Cookies - Butter,Snacks & Branded Foods,Unibic,1,22.5,2025-03-21,UPI
+ORD00962,CUST0002,"Granola - Goji Cocoa, Gluten free",Gourmet & World Food,GoodDiet,3,747.0,2025-02-16,Debit Card
+ORD00963,CUST0078,Healthy Daily Eggs,"Eggs, Meat & Fish",UPF,1,69.3,2025-03-26,Net Banking
+ORD00964,CUST0028,Moisturizing Cucumber Peel-Off Mask,Beauty & Hygiene,Himalaya,3,202.5,2025-02-24,UPI
+ORD00965,CUST0099,To Be Man Eau De Toilette,Beauty & Hygiene,Police,4,6032.0,2025-03-31,Credit Card
+ORD00966,CUST0056,"Skin Superfood - Advanced Plant Based Formula, Blueberry & Lemon Flavour",Gourmet & World Food,Chicnutrix,2,99999.0,2024-12-15,Cash on Delivery
+ORD00967,CUST0084,1-2-3 Noodles - Veg Masala Flavour,Snacks & Branded Foods,Wai Wai,5,60.0,2025-03-30,UPI
+ORD00968,CUST0057,Pasta - Spaghetti,Snacks & Branded Foods,Weikfield,5,595.0,2025-02-24,Cash on Delivery
+ORD00969,CUST0065,Roasted Almond Barks - Snacking Chocolate,Gourmet & World Food,Lindberg,5,645.0,2025-01-02,Net Banking
+ORD00970,CUST0079,Jelly - Guava Jelly,Gourmet & World Food,BHUIRA ,1,269.1,2024-12-31,Cash on Delivery
+ORD00971,CUST0035,Lacto Tan Clear,Beauty & Hygiene,Natures Essence,1,175.0,2025-03-09,Debit Card
+ORD00972,CUST0100,Pancake Mix - Buttermilk,Snacks & Branded Foods,Betty Crocker,3,669.6,2025-03-17,Cash on Delivery
+ORD00973,CUST0093,Canned Mackerel In - Tomato Sauce With Chili,"Eggs, Meat & Fish",Golden Prize,4,452.2,2025-03-14,Credit Card
+ORD00974,CUST0040,Natural Protein Shampoo,Beauty & Hygiene,The Moms Co,4,1544.0,2024-12-28,Credit Card
+ORD00975,CUST0064,Natura Low Calorie Sweetner,"Foodgrains, Oil & Masala",Sugar free,1,190.0,2024-12-23,Credit Card
+ORD00976,CUST0051,Soild Gel  Air Freshener - White Pure Pear & Lavender,Cleaning & Household,RENUZIT,3,597.0,2025-01-26,Net Banking
+ORD00977,CUST0001,Masala - Tikka,"Foodgrains, Oil & Masala",Hakim,3,225.0,2025-03-21,Cash on Delivery
+ORD00978,CUST0049,Arrabbiata Pasta Sauce,Gourmet & World Food,The Gourmet Jar,1,199.2,2025-02-01,Cash on Delivery
+ORD00979,CUST0059,Lite Oil,"Foodgrains, Oil & Masala",Sundrop,3,3420.0,2025-02-28,UPI
+ORD00980,CUST0042,"Stainless Steel Lunch Box/Tiffin Set - Red, BB 577 2","Kitchen, Garden & Pets",Tedemei,3,2487.0,2025-02-08,Net Banking
+ORD00981,CUST0074,Fields of Gold - Organic Chia Seeds,"Foodgrains, Oil & Masala",PRISTINE,4,562.6,2025-02-26,Credit Card
+ORD00982,CUST0005,Powder - Neem,Beauty & Hygiene,Tiera,3,300.0,2025-03-23,Credit Card
+ORD00983,CUST0049,Flaxseed Oil Softgel Capsule - 1000 Mg,Beauty & Hygiene,Alvizia,3,975.0,2025-01-30,Debit Card
+ORD00984,CUST0007,"Drink - 7 Power Herbs, Delicious Chocolate",Beverages,Ojasvita,3,1575.0,2024-12-03,Cash on Delivery
+ORD00985,CUST0047,Little Buddha Fruit Green Tea Bags Make Brew Iced Tea or Hot Tea,Gourmet & World Food,TGL Co.,1,254.77,2025-03-18,UPI
+ORD00986,CUST0089,6 Corn Wraps Try It With Prawns & Avocado,Gourmet & World Food,Deli Sun,2,390.0,2025-01-02,Cash on Delivery
+ORD00987,CUST0012,Dog Munchies - Chicken,"Kitchen, Garden & Pets",Glenand,4,760.0,2025-01-09,Debit Card
+ORD00988,CUST0013,Energy Bar Fig & Date 6 pcs + Energy Bar Hazelnut Magic 6 pcs,Snacks & Branded Foods,On The Run,1,600.0,2025-02-07,Credit Card
+ORD00989,CUST0043,Hinguvachadi Gulika,Beauty & Hygiene,Kerala Ayurveda,4,500.0,2025-01-19,UPI
+ORD00990,CUST0042,Instant Soup Mix - Mulligatawny Soup,Gourmet & World Food,Veekes & Company,4,196.0,2025-03-29,Debit Card
+ORD00991,CUST0092,"Coffee Roasters - Dark Vienna Roast, Whole Bean",Gourmet & World Food,Blue Tokai ,3,1350.0,2024-12-12,Credit Card
+ORD00992,CUST0011,Honey - With Clove,Gourmet & World Food,Beelicious ,3,1050.0,2024-12-27,Credit Card
+ORD00993,CUST0054,Power Up Atta Noodles,Snacks & Branded Foods,Sunfeast YiPPee!,4,309.6,2025-02-19,Debit Card
+ORD00994,CUST0091,Tea Bags Assorted Selection - 15 Variety,Beverages,VAHDAM,4,900.0,2025-03-12,UPI
+ORD00995,CUST0069,Organic Brown Rice Cake,Gourmet & World Food,Wise Crack,3,379.95,2025-03-21,UPI
+ORD00996,CUST0056,Milk Shake - Strawberry,"Bakery, Cakes & Dairy",mother dairy,4,291.6,2025-01-30,Net Banking
+ORD00997,CUST0060,Health Drink - Millet Vita,Snacks & Branded Foods,GoodDiet,3,177.0,2025-03-02,Net Banking
+ORD00998,CUST0061,Active Sport Face Wash,Beauty & Hygiene,Himalaya Men,1,126.0,2025-03-16,Credit Card
+ORD00999,CUST0014,Toilex - Cleaner Home Everyday,Cleaning & Household,Gala,3,360.0,2025-02-03,UPI
+ORD01000,CUST0037,"Non-Alcoholic Beer Can - Beverage, Malt Flavour",Beverages,Barbican ,3,147.0,2025-01-23,Cash on Delivery
+ORD00376,CUST0020,Signature Champion No Gas Body Deodorant For Men,Beauty & Hygiene,Axe,3,637.5,2024-12-03,Cash on Delivery
+ORD00092,CUST0044,"Power Pocket - Long Lasting Bathroom Fragrance, Berry Rush",Cleaning & Household,Aer,1,53.35,2024-12-13,Cash on Delivery
+ORD00372,CUST0059,Sandal & Almond Milk Soap,Beauty & Hygiene,Santoor,1,139.5,2024-12-01,Debit Card
+ORD00480,CUST0056,Vegetarian Oyster Sauce,Gourmet & World Food,Tai Hua,4,1476.0,2025-01-28,Cash on Delivery
+ORD00647,CUST0099,Tea Tree Oil,Beauty & Hygiene,Nectar Valley,1,450.0,2025-01-05,Credit Card
+ORD00950,CUST0041,"Signature Filter Instant Coffee Powder Make Cold Coffee, Hot Coffee & Cappuccino",Gourmet & World Food,TGL Co.,2,448.5,2025-01-02,Cash on Delivery
+ORD00395,CUST0100,"Aqua Stainless Steel Bottle With Steel Cap - Metallic Pink Finish, PXP 1003 CK","Kitchen, Garden & Pets",BB Home,5,1145.0,2025-02-19,Net Banking
+ORD00318,CUST0065,Silver Eau De Toilette For Men,Beauty & Hygiene,Mercedes-Benz,2,10620.0,2025-02-17,UPI
+ORD00597,CUST0011,Bio Rejuvenating Vetiver,Beauty & Hygiene,BIOTIQUE,1,524.25,2025-02-14,Credit Card
+ORD00830,CUST0017,Absolute Argan Oil Radiance Night Revival Eye Creme,Beauty & Hygiene,Lakme,3,1560.0,2025-02-13,Debit Card
+ORD00664,CUST0025,"Isomil Soy Infant Milk Substitute - Lactose Free, Upto 24 months",Baby Care,Similac,4,2120.0,2025-02-02,Credit Card
+ORD00973,CUST0093,Canned Mackerel In - Tomato Sauce With Chili,"Eggs, Meat & Fish",Golden Prize,4,452.2,2025-03-14,Credit Card
+ORD00346,CUST0048,"100% Compostable & Bio-Degradable Garbage Bags - Large, 24X32",Cleaning & Household,Pearl Luxury,1,153.0,2025-03-17,Cash on Delivery
+ORD00689,CUST0043,Micro Hooks,"Kitchen, Garden & Pets",Command,5,495.0,2025-03-22,Credit Card
+ORD00056,CUST0042,Almonds - Mediterranean Rosemary,"Foodgrains, Oil & Masala",Organic Origins,4,1320.0,2025-01-11,UPI
